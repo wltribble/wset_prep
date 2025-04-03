@@ -80,7 +80,15 @@ function showQuestion() {
     const btn = document.createElement('button');
     btn.textContent = choice;
     btn.className = 'w-full border p-2 rounded text-left hover:bg-gray-100';
-    btn.onclick = () => checkAnswer(choice, q);
+    
+    btn.onclick = () => {
+      if (document.getElementById('next-btn').classList.contains('hidden')) {
+        checkAnswer(choice, q);
+        // Disable all buttons
+        Array.from(document.getElementById('choices').children).forEach(b => b.disabled = true);
+      }
+    };
+    
     choicesDiv.appendChild(btn);
   });
 
@@ -93,11 +101,11 @@ function checkAnswer(selected, question) {
   const feedback = document.getElementById('feedback');
   totalAnswered++;
   if (selected === question.answer) {
-    feedback.textContent = '✅ Correct! \n' + question.explanation;
+    feedback.textContent = '✅ Correct! ' + question.explanation;
     feedback.className = 'correct';
     totalCorrect++;
   } else {
-    feedback.textContent = `❌ Incorrect. Correct answer: ${question.answer}. \n` + question.explanation;
+    feedback.textContent = `❌ Incorrect. Correct answer: ${question.answer}. ` + question.explanation;
     feedback.className = 'incorrect';
     missed.push(question);
     localStorage.setItem('missedQuestions', JSON.stringify(missed));
