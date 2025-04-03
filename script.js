@@ -1,6 +1,5 @@
 let allQuestions = [];
-let questions = [];
-let currentIndex = 0;
+let availableQuestions = [];
 let missed = JSON.parse(localStorage.getItem('missedQuestions') || '[]');
 
 async function loadQuestions() {
@@ -11,13 +10,14 @@ async function loadQuestions() {
 function startQuiz() {
   const category = document.getElementById('category-select').value;
   if (category === 'All') {
-    questions = shuffleArray([...allQuestions]);
+    availableQuestions = [...allQuestions];
   } else if (category === 'Missed') {
-    questions = shuffleArray([...missed]);
+    availableQuestions = [...missed];
   } else {
-    questions = shuffleArray(allQuestions.filter(q => q.category === category));
+    availableQuestions = allQuestions.filter(q => q.category === category);
   }
-  currentIndex = 0;
+
+  availableQuestions = shuffleArray(availableQuestions);
   document.getElementById('quiz-container').classList.remove('hidden');
   document.getElementById('category-label').textContent =
     category === 'All' ? 'Category: Randomized' :
@@ -27,20 +27,34 @@ function startQuiz() {
 }
 
 function showQuestion() {
-  const q = questions[currentIndex];
+  if (availableQuestions.length === 0) {
+    document.getElementById('quiz-container').innerHTML = '<h2 class="text-center text-xl font-semibold text-green-600">🎉 Quiz Complete!</h2>';
+    return;
+  }
+
+  const questionIndex = Math.floor(Math.random() * availableQuestions.length);
+  const q = availableQuestions.splice(questionIndex, 1)[0];  // remove selected question
+
   document.getElementById('question').textContent = q.question;
+
   const choicesDiv = document.getElementById('choices');
   choicesDiv.innerHTML = '';
-  q.choices.forEach(choice => {
+
+  const shuffledChoices = shuffleArray([...q.choices]);
+  shuffledChoices.forEach(choice => {
     const btn = document.createElement('button');
     btn.textContent = choice;
     btn.className = 'w-full border p-2 rounded text-left hover:bg-gray-100';
     btn.onclick = () => checkAnswer(choice, q);
     choicesDiv.appendChild(btn);
   });
+
   document.getElementById('feedback').textContent = '';
   document.getElementById('feedback').className = '';
   document.getElementById('next-btn').classList.add('hidden');
+
+  // store current question for answer check
+  window.currentQuestion = q;
 }
 
 function checkAnswer(selected, question) {
@@ -58,12 +72,7 @@ function checkAnswer(selected, question) {
 }
 
 function nextQuestion() {
-  currentIndex++;
-  if (currentIndex < questions.length) {
-    showQuestion();
-  } else {
-    document.getElementById('quiz-container').innerHTML = '<h2 class="text-center text-xl font-semibold text-green-600">🎉 Quiz Complete!</h2>';
-  }
+  showQuestion();
 }
 
 function shuffleArray(arr) {
