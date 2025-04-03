@@ -1,0 +1,5 @@
+body {
+  font-family: system-ui, sans-serif;
+}
+#feedback.correct { color: green; }
+#feedback.incorrect { color: red; }

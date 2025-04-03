@@ -1,0 +1,74 @@
+[
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for aromas of blackcurrant and green bell pepper?",
+    "choices": [
+      "Merlot",
+      "Cabernet Sauvignon",
+      "Pinot Noir",
+      "Syrah"
+    ],
+    "answer": "Cabernet Sauvignon",
+    "explanation": "Cabernet Sauvignon often exhibits blackcurrant and green bell pepper notes, especially in cooler climates."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which white grape variety is most associated with high acidity and citrus flavors?",
+    "choices": [
+      "Chardonnay",
+      "Riesling",
+      "Viognier",
+      "Pinot Grigio"
+    ],
+    "answer": "Riesling",
+    "explanation": "Riesling is known for its high acidity and citrus, stone fruit, and floral notes."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the purpose of malolactic conversion in white wines?",
+    "choices": [
+      "To increase sugar content",
+      "To reduce acidity and add buttery flavors",
+      "To clarify the wine",
+      "To stop fermentation"
+    ],
+    "answer": "To reduce acidity and add buttery flavors",
+    "explanation": "Malolactic conversion reduces acidity by converting malic acid to lactic acid and can impart buttery notes."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the role of lees aging in white wine production?",
+    "choices": [
+      "To add oak flavor",
+      "To make the wine sweeter",
+      "To enhance texture and add yeasty flavors",
+      "To reduce alcohol content"
+    ],
+    "answer": "To enhance texture and add yeasty flavors",
+    "explanation": "Lees aging increases complexity, body, and imparts yeasty, biscuit-like notes."
+  },
+  {
+    "category": "Regions",
+    "question": "Which region is famous for producing Barolo and Barbaresco?",
+    "choices": [
+      "Tuscany",
+      "Piedmont",
+      "Veneto",
+      "Sicily"
+    ],
+    "answer": "Piedmont",
+    "explanation": "Piedmont in northwest Italy is known for Nebbiolo-based wines like Barolo and Barbaresco."
+  },
+  {
+    "category": "Regions",
+    "question": "What region is known for Sauvignon Blanc with pronounced green and citrus characteristics?",
+    "choices": [
+      "Loire Valley",
+      "Tuscany",
+      "Rioja",
+      "Mosel"
+    ],
+    "answer": "Loire Valley",
+    "explanation": "The Loire Valley, particularly Sancerre and Pouilly-Fum\u00e9, produces crisp, citrus-driven Sauvignon Blanc."
+  }
+]
