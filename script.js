@@ -29,11 +29,14 @@ function startQuiz() {
 
   document.getElementById('quiz-container').classList.remove('hidden');
   document.getElementById('quit-btn').classList.remove('hidden');
+  document.getElementById('score').classList.remove('hidden');
+
   document.getElementById('category-label').textContent =
     category === 'All' ? 'Category: Randomized' :
     category === 'Missed' ? 'Category: Missed Questions' :
     'Category: ' + category;
 
+  updateScoreDisplay();
   showQuestion();
 }
 
@@ -46,6 +49,7 @@ function showQuestion() {
       <button onclick="resetQuiz()" class="w-full bg-blue-600 hover:bg-blue-700 text-white py-2 rounded">Start New Quiz</button>
     `;
     document.getElementById('quit-btn').classList.add('hidden');
+    document.getElementById('score').classList.add('hidden');
     return;
   }
 
@@ -85,7 +89,18 @@ function checkAnswer(selected, question) {
     missed.push(question);
     localStorage.setItem('missedQuestions', JSON.stringify(missed));
   }
+  updateScoreDisplay();
   document.getElementById('next-btn').classList.remove('hidden');
+}
+
+function updateScoreDisplay() {
+  const scoreBox = document.getElementById('score');
+  if (totalAnswered === 0) {
+    scoreBox.textContent = "Score: 0/0 (0%)";
+  } else {
+    const percent = ((totalCorrect / totalAnswered) * 100).toFixed(1);
+    scoreBox.textContent = `Score: ${totalCorrect}/${totalAnswered} (${percent}%)`;
+  }
 }
 
 function nextQuestion() {
@@ -106,6 +121,7 @@ function resetQuiz() {
   document.querySelector('label[for=category-select]').classList.remove('hidden');
   document.getElementById('quiz-container').classList.add('hidden');
   document.getElementById('quit-btn').classList.add('hidden');
+  document.getElementById('score').classList.add('hidden');
 }
 
 function quitQuiz() {
