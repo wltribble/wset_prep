@@ -1,3 +1,4 @@
+localStorage.removeItem('missedQuestions');
 
 let allQuestions = [];
 let availableQuestions = [];
