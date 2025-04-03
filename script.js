@@ -93,11 +93,11 @@ function checkAnswer(selected, question) {
   const feedback = document.getElementById('feedback');
   totalAnswered++;
   if (selected === question.answer) {
-    feedback.textContent = '✅ Correct! ' + question.explanation + `<br>`;
+    feedback.textContent = '✅ Correct! <br>' + question.explanation;
     feedback.className = 'correct';
     totalCorrect++;
   } else {
-    feedback.textContent = `❌ Incorrect. Correct answer: ${question.answer}. ` + question.explanation + `<br>`;
+    feedback.textContent = `❌ Incorrect. Correct answer: ${question.answer}. <br>` + question.explanation;
     feedback.className = 'incorrect';
     missed.push(question);
     localStorage.setItem('missedQuestions', JSON.stringify(missed));
