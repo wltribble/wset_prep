@@ -1,10 +1,24 @@
+let allQuestions = [];
 let questions = [];
 let currentIndex = 0;
+let missed = JSON.parse(localStorage.getItem('missedQuestions') || '[]');
 
 async function loadQuestions() {
   const res = await fetch('wset2_questions.json');
-  questions = await res.json();
-  questions = shuffleArray(questions);
+  allQuestions = await res.json();
+}
+
+function startQuiz() {
+  const category = document.getElementById('category-select').value;
+  if (category === 'All') {
+    questions = shuffleArray([...allQuestions]);
+  } else if (category === 'Missed') {
+    questions = shuffleArray([...missed]);
+  } else {
+    questions = shuffleArray(allQuestions.filter(q => q.category === category));
+  }
+  currentIndex = 0;
+  document.getElementById('quiz-container').classList.remove('hidden');
   showQuestion();
 }
 
@@ -33,6 +47,8 @@ function checkAnswer(selected, question) {
   } else {
     feedback.textContent = `Incorrect. Correct answer: ${question.answer}. ` + question.explanation;
     feedback.className = 'incorrect';
+    missed.push(question);
+    localStorage.setItem('missedQuestions', JSON.stringify(missed));
   }
   document.getElementById('next-btn').classList.remove('hidden');
 }
@@ -50,5 +66,7 @@ function shuffleArray(arr) {
   return arr.sort(() => Math.random() - 0.5);
 }
 
+document.getElementById('start-btn').addEventListener('click', startQuiz);
 document.getElementById('next-btn').addEventListener('click', nextQuestion);
+
 loadQuestions();
