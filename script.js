@@ -34,7 +34,7 @@ function showQuestion() {
   q.choices.forEach(choice => {
     const btn = document.createElement('button');
     btn.textContent = choice;
-    btn.className = 'btn block w-full text-left border p-2 rounded hover:bg-gray-100';
+    btn.className = 'w-full border p-2 rounded text-left hover:bg-gray-100';
     btn.onclick = () => checkAnswer(choice, q);
     choicesDiv.appendChild(btn);
   });

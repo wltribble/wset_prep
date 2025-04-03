@@ -4,30 +4,30 @@
   <meta charset="UTF-8">
   <title>WSET Level 2 Study Quiz</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://cdn.base44.com/latest/base44.min.css" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="style.css">
 </head>
-<body class="bg-light min-h-screen p-4 flex flex-col justify-center items-center">
-  <div class="container max-w-lg w-full">
-    <div class="card p-6 shadow-xl border border-gray-200 bg-white">
+<body class="bg-gray-100 min-h-screen flex flex-col items-center justify-center p-4">
+  <div class="w-full max-w-xl">
+    <div class="bg-white p-6 rounded-xl shadow-md">
       <h1 class="text-2xl font-bold text-center mb-4">WSET Level 2 Quiz</h1>
       <label for="category-select" class="block text-sm font-medium mb-2">Choose a category:</label>
-      <select id="category-select" class="input mb-4 w-full">
+      <select id="category-select" class="w-full border rounded p-2 mb-4">
         <option value="All">🎲 Random Category</option>
         <option value="Varietals">🍇 Varietals</option>
         <option value="Wine Production">🏭 Wine Production</option>
         <option value="Regions">🗺️ Regions</option>
         <option value="Missed">📝 Review Missed Questions</option>
       </select>
-      <button id="start-btn" class="btn btn-primary w-full">Start Quiz</button>
+      <button id="start-btn" class="w-full bg-blue-600 hover:bg-blue-700 text-white py-2 rounded">Start Quiz</button>
     </div>
 
-    <div id="quiz-container" class="card p-6 shadow-xl border border-gray-200 bg-white mt-6 hidden">
-      <div class="text-sm text-gray-500 mb-1" id="category-label"></div>
+    <div id="quiz-container" class="bg-white p-6 rounded-xl shadow-md mt-6 hidden">
+      <div class="text-sm text-gray-500 mb-2" id="category-label"></div>
       <div id="question" class="mb-4 font-semibold text-lg text-gray-900">Loading question...</div>
       <div id="choices" class="space-y-2"></div>
       <div id="feedback" class="mt-4 text-sm font-medium"></div>
-      <button id="next-btn" class="btn btn-secondary mt-5 hidden w-full">Next Question</button>
+      <button id="next-btn" class="w-full bg-gray-700 text-white py-2 mt-4 rounded hidden">Next Question</button>
     </div>
   </div>
   <script src="script.js"></script>

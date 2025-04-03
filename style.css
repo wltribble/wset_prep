@@ -1,17 +1,7 @@
 
-body {
-  font-family: system-ui, sans-serif;
-  background: #f7fafc;
-}
 #feedback.correct {
   color: #16a34a;
 }
 #feedback.incorrect {
   color: #dc2626;
-}
-.btn {
-  transition: all 0.2s ease-in-out;
-}
-.btn:hover {
-  transform: scale(1.02);
 }
