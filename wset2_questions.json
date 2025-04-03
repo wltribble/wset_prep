@@ -1,158 +1,3002 @@
 [
   {
     "category": "Varietals",
-    "question": "Which red grape variety is known for high tannin, high acidity, and aromas of cherry and tar?",
+    "question": "Which grape variety is known for high acidity and green apple and is typically grown in Marlborough?",
     "choices": [
-      "Merlot",
-      "Nebbiolo",
-      "Pinot Noir",
-      "Cabernet Franc"
+      "Riesling",
+      "Cabernet Sauvignon",
+      "Chardonnay",
+      "Pinot Noir"
     ],
-    "answer": "Nebbiolo",
-    "explanation": "Nebbiolo, especially in Barolo and Barbaresco, is known for high tannins, acidity, and aromas like cherry, rose, and tar."
+    "answer": "Cabernet Sauvignon",
+    "explanation": "Cabernet Sauvignon is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Rioja is best known for which grape variety?",
+    "choices": [
+      "Pinot Noir",
+      "Malbec",
+      "Chardonnay",
+      "Sangiovese"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of lees contact in winemaking?",
+    "choices": [
+      "To stabilize color",
+      "To add oak flavors",
+      "To increase acidity",
+      "To soften tannins"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A off-dry Riesling wine typically has which of the following characteristics?",
+    "choices": [
+      "Sweet finish",
+      "Low acidity",
+      "Pronounced fruit flavor",
+      "High tannins"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with blue cheese?",
+    "choices": [
+      "Cabernet Sauvignon",
+      "Sauvignon Blanc",
+      "Chardonnay",
+      "Riesling"
+    ],
+    "answer": "Riesling",
+    "explanation": "Riesling is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for ros\u00e9 wine?",
+    "choices": [
+      "Room temperature",
+      "6\u201310\u00b0C",
+      "10\u201313\u00b0C",
+      "14\u201318\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Oxidation",
+      "Cork taint",
+      "All of the above",
+      "Brettanomyces"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
   },
   {
     "category": "Varietals",
-    "question": "Which grape variety is commonly associated with tropical fruit flavors when grown in warm climates?",
+    "question": "Which grape variety is known for high acidity and green apple and is typically grown in Barossa Valley?",
+    "choices": [
+      "Merlot",
+      "Pinot Noir",
+      "Chardonnay",
+      "Sauvignon Blanc"
+    ],
+    "answer": "Sauvignon Blanc",
+    "explanation": "Sauvignon Blanc is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Tuscany is best known for which grape variety?",
+    "choices": [
+      "Chardonnay",
+      "Pinot Noir",
+      "Sangiovese",
+      "Syrah"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of oak aging in winemaking?",
+    "choices": [
+      "To stabilize color",
+      "To increase acidity",
+      "To soften tannins",
+      "To add oak flavors"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A dry white wine typically has which of the following characteristics?",
+    "choices": [
+      "Pronounced fruit flavor",
+      "Sweet finish",
+      "Low acidity",
+      "High tannins"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with spicy Thai food?",
+    "choices": [
+      "Chardonnay",
+      "Sauvignon Blanc",
+      "Riesling",
+      "Pinot Noir"
+    ],
+    "answer": "Chardonnay",
+    "explanation": "Chardonnay is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for light-bodied red wine?",
+    "choices": [
+      "6\u201310\u00b0C",
+      "10\u201313\u00b0C",
+      "Room temperature",
+      "14\u201318\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Cork taint",
+      "Brettanomyces",
+      "All of the above",
+      "Oxidation"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for blackcurrant and green pepper and is typically grown in Rioja?",
+    "choices": [
+      "Chardonnay",
+      "Merlot",
+      "Riesling",
+      "Pinot Noir"
+    ],
+    "answer": "Riesling",
+    "explanation": "Riesling is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Tuscany is best known for which grape variety?",
+    "choices": [
+      "Tempranillo",
+      "Malbec",
+      "Chardonnay",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Malbec",
+    "explanation": "Malbec is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of oak aging in winemaking?",
+    "choices": [
+      "To increase acidity",
+      "To soften tannins",
+      "To stabilize color",
+      "To add oak flavors"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A off-dry Riesling wine typically has which of the following characteristics?",
+    "choices": [
+      "Sweet finish",
+      "High tannins",
+      "Low acidity",
+      "Pronounced fruit flavor"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with creamy pasta?",
+    "choices": [
+      "Pinot Noir",
+      "Riesling",
+      "Chardonnay",
+      "Sauvignon Blanc"
+    ],
+    "answer": "Riesling",
+    "explanation": "Riesling is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for ros\u00e9 wine?",
+    "choices": [
+      "10\u201313\u00b0C",
+      "14\u201318\u00b0C",
+      "6\u201310\u00b0C",
+      "Room temperature"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Cork taint",
+      "Oxidation",
+      "Brettanomyces",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for citrus and minerality and is typically grown in Burgundy?",
     "choices": [
       "Sauvignon Blanc",
       "Chardonnay",
       "Riesling",
-      "Chenin Blanc"
+      "Pinot Noir"
+    ],
+    "answer": "Sauvignon Blanc",
+    "explanation": "Sauvignon Blanc is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Tuscany is best known for which grape variety?",
+    "choices": [
+      "Tempranillo",
+      "Syrah",
+      "Chardonnay",
+      "Cabernet Sauvignon"
     ],
     "answer": "Chardonnay",
-    "explanation": "Chardonnay can show tropical fruit flavors such as banana and pineapple when grown in warm climates."
+    "explanation": "Chardonnay is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of cold stabilization in winemaking?",
+    "choices": [
+      "To stabilize color",
+      "To soften tannins",
+      "To increase acidity",
+      "To add oak flavors"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A full-bodied red wine typically has which of the following characteristics?",
+    "choices": [
+      "Low acidity",
+      "High tannins",
+      "Pronounced fruit flavor",
+      "Sweet finish"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with grilled salmon?",
+    "choices": [
+      "Riesling",
+      "Cabernet Sauvignon",
+      "Pinot Noir",
+      "Sauvignon Blanc"
+    ],
+    "answer": "Sauvignon Blanc",
+    "explanation": "Sauvignon Blanc is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for light-bodied red wine?",
+    "choices": [
+      "Room temperature",
+      "6\u201310\u00b0C",
+      "10\u201313\u00b0C",
+      "14\u201318\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Oxidation",
+      "Cork taint",
+      "All of the above",
+      "Brettanomyces"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
   },
   {
     "category": "Varietals",
-    "question": "Which grape is the primary component of red Rioja wines?",
+    "question": "Which grape variety is known for blackcurrant and green pepper and is typically grown in Burgundy?",
     "choices": [
-      "Garnacha",
+      "Chardonnay",
+      "Cabernet Sauvignon",
+      "Merlot",
+      "Syrah"
+    ],
+    "answer": "Merlot",
+    "explanation": "Merlot is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Burgundy is best known for which grape variety?",
+    "choices": [
+      "Cabernet Sauvignon",
+      "Sangiovese",
       "Tempranillo",
-      "Monastrell",
+      "Pinot Noir"
+    ],
+    "answer": "Tempranillo",
+    "explanation": "Tempranillo is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of cold stabilization in winemaking?",
+    "choices": [
+      "To add oak flavors",
+      "To stabilize color",
+      "To increase acidity",
+      "To soften tannins"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A ros\u00e9 wine typically has which of the following characteristics?",
+    "choices": [
+      "Low acidity",
+      "High tannins",
+      "Sweet finish",
+      "Pronounced fruit flavor"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with spicy Thai food?",
+    "choices": [
+      "Pinot Noir",
+      "Sauvignon Blanc",
+      "Cabernet Sauvignon",
+      "Riesling"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for sparkling wine?",
+    "choices": [
+      "Room temperature",
+      "14\u201318\u00b0C",
+      "6\u201310\u00b0C",
+      "10\u201313\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Brettanomyces",
+      "Oxidation",
+      "All of the above",
+      "Cork taint"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for citrus and minerality and is typically grown in Barossa Valley?",
+    "choices": [
+      "Syrah",
+      "Chardonnay",
+      "Cabernet Sauvignon",
+      "Pinot Noir"
+    ],
+    "answer": "Cabernet Sauvignon",
+    "explanation": "Cabernet Sauvignon is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Tuscany is best known for which grape variety?",
+    "choices": [
+      "Malbec",
+      "Pinot Noir",
+      "Tempranillo",
       "Syrah"
     ],
     "answer": "Tempranillo",
-    "explanation": "Tempranillo is the dominant grape in Rioja, known for red fruit flavors and aging potential."
+    "explanation": "Tempranillo is the correct answer based on common WSET Level 2 knowledge."
   },
   {
-    "category": "Varietals",
-    "question": "What flavors are typically associated with Sauvignon Blanc from New Zealand?",
+    "category": "Wine Production",
+    "question": "What is the main purpose of lees contact in winemaking?",
     "choices": [
-      "Stone fruit and vanilla",
-      "Grass, passionfruit, and gooseberry",
-      "Peach and hazelnut",
-      "Petrol and lime"
+      "To add oak flavors",
+      "To stabilize color",
+      "To increase acidity",
+      "To soften tannins"
     ],
-    "answer": "Grass, passionfruit, and gooseberry",
-    "explanation": "New Zealand Sauvignon Blanc is famous for its pronounced herbaceous and tropical fruit aromas."
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A full-bodied red wine typically has which of the following characteristics?",
+    "choices": [
+      "Sweet finish",
+      "High tannins",
+      "Low acidity",
+      "Pronounced fruit flavor"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with steak?",
+    "choices": [
+      "Pinot Noir",
+      "Sauvignon Blanc",
+      "Cabernet Sauvignon",
+      "Chardonnay"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for ros\u00e9 wine?",
+    "choices": [
+      "6\u201310\u00b0C",
+      "14\u201318\u00b0C",
+      "Room temperature",
+      "10\u201313\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Oxidation",
+      "All of the above",
+      "Cork taint",
+      "Brettanomyces"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
   },
   {
     "category": "Varietals",
-    "question": "Which black grape is most associated with black pepper and violet aromas?",
+    "question": "Which grape variety is known for high acidity and green apple and is typically grown in Barossa Valley?",
     "choices": [
+      "Syrah",
+      "Riesling",
+      "Merlot",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Cabernet Sauvignon",
+    "explanation": "Cabernet Sauvignon is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Rioja is best known for which grape variety?",
+    "choices": [
+      "Pinot Noir",
       "Malbec",
-      "Zinfandel",
+      "Syrah",
+      "Chardonnay"
+    ],
+    "answer": "Chardonnay",
+    "explanation": "Chardonnay is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of oak aging in winemaking?",
+    "choices": [
+      "To soften tannins",
+      "To stabilize color",
+      "To increase acidity",
+      "To add oak flavors"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A ros\u00e9 wine typically has which of the following characteristics?",
+    "choices": [
+      "Pronounced fruit flavor",
+      "High tannins",
+      "Low acidity",
+      "Sweet finish"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with grilled salmon?",
+    "choices": [
+      "Sauvignon Blanc",
+      "Pinot Noir",
+      "Cabernet Sauvignon",
+      "Riesling"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for sparkling wine?",
+    "choices": [
+      "Room temperature",
+      "14\u201318\u00b0C",
+      "10\u201313\u00b0C",
+      "6\u201310\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "All of the above",
+      "Cork taint",
+      "Oxidation",
+      "Brettanomyces"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for peach and floral aromas and is typically grown in Barossa Valley?",
+    "choices": [
+      "Syrah",
+      "Riesling",
+      "Chardonnay",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Riesling",
+    "explanation": "Riesling is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Marlborough is best known for which grape variety?",
+    "choices": [
+      "Syrah",
+      "Tempranillo",
+      "Malbec",
+      "Sangiovese"
+    ],
+    "answer": "Malbec",
+    "explanation": "Malbec is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of oak aging in winemaking?",
+    "choices": [
+      "To increase acidity",
+      "To soften tannins",
+      "To stabilize color",
+      "To add oak flavors"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A ros\u00e9 wine typically has which of the following characteristics?",
+    "choices": [
+      "Pronounced fruit flavor",
+      "High tannins",
+      "Low acidity",
+      "Sweet finish"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with blue cheese?",
+    "choices": [
+      "Sauvignon Blanc",
+      "Chardonnay",
+      "Cabernet Sauvignon",
+      "Pinot Noir"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for light-bodied red wine?",
+    "choices": [
+      "Room temperature",
+      "10\u201313\u00b0C",
+      "14\u201318\u00b0C",
+      "6\u201310\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "All of the above",
+      "Cork taint",
+      "Brettanomyces",
+      "Oxidation"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for peach and floral aromas and is typically grown in Rioja?",
+    "choices": [
+      "Cabernet Sauvignon",
+      "Sauvignon Blanc",
+      "Syrah",
+      "Merlot"
+    ],
+    "answer": "Merlot",
+    "explanation": "Merlot is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Rioja is best known for which grape variety?",
+    "choices": [
+      "Chardonnay",
+      "Pinot Noir",
+      "Malbec",
+      "Syrah"
+    ],
+    "answer": "Malbec",
+    "explanation": "Malbec is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of lees contact in winemaking?",
+    "choices": [
+      "To add oak flavors",
+      "To increase acidity",
+      "To soften tannins",
+      "To stabilize color"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A full-bodied red wine typically has which of the following characteristics?",
+    "choices": [
+      "Low acidity",
+      "Pronounced fruit flavor",
+      "High tannins",
+      "Sweet finish"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with spicy Thai food?",
+    "choices": [
+      "Cabernet Sauvignon",
+      "Riesling",
+      "Chardonnay",
+      "Sauvignon Blanc"
+    ],
+    "answer": "Chardonnay",
+    "explanation": "Chardonnay is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for sparkling wine?",
+    "choices": [
+      "10\u201313\u00b0C",
+      "Room temperature",
+      "14\u201318\u00b0C",
+      "6\u201310\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Oxidation",
+      "Cork taint",
+      "All of the above",
+      "Brettanomyces"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for high acidity and green apple and is typically grown in Tuscany?",
+    "choices": [
+      "Cabernet Sauvignon",
+      "Merlot",
+      "Chardonnay",
+      "Pinot Noir"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Mosel is best known for which grape variety?",
+    "choices": [
+      "Syrah",
+      "Chardonnay",
+      "Malbec",
+      "Pinot Noir"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of cold stabilization in winemaking?",
+    "choices": [
+      "To soften tannins",
+      "To stabilize color",
+      "To add oak flavors",
+      "To increase acidity"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A dry white wine typically has which of the following characteristics?",
+    "choices": [
+      "Pronounced fruit flavor",
+      "Sweet finish",
+      "Low acidity",
+      "High tannins"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with blue cheese?",
+    "choices": [
+      "Chardonnay",
+      "Cabernet Sauvignon",
+      "Sauvignon Blanc",
+      "Riesling"
+    ],
+    "answer": "Sauvignon Blanc",
+    "explanation": "Sauvignon Blanc is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for sparkling wine?",
+    "choices": [
+      "10\u201313\u00b0C",
+      "Room temperature",
+      "14\u201318\u00b0C",
+      "6\u201310\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Oxidation",
+      "Brettanomyces",
+      "All of the above",
+      "Cork taint"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for blackcurrant and green pepper and is typically grown in Mosel?",
+    "choices": [
+      "Chardonnay",
+      "Cabernet Sauvignon",
+      "Pinot Noir",
+      "Riesling"
+    ],
+    "answer": "Riesling",
+    "explanation": "Riesling is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Marlborough is best known for which grape variety?",
+    "choices": [
+      "Cabernet Sauvignon",
+      "Chardonnay",
+      "Pinot Noir",
+      "Tempranillo"
+    ],
+    "answer": "Chardonnay",
+    "explanation": "Chardonnay is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of lees contact in winemaking?",
+    "choices": [
+      "To stabilize color",
+      "To soften tannins",
+      "To increase acidity",
+      "To add oak flavors"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A off-dry Riesling wine typically has which of the following characteristics?",
+    "choices": [
+      "Pronounced fruit flavor",
+      "Low acidity",
+      "High tannins",
+      "Sweet finish"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with steak?",
+    "choices": [
+      "Pinot Noir",
+      "Sauvignon Blanc",
+      "Chardonnay",
+      "Riesling"
+    ],
+    "answer": "Riesling",
+    "explanation": "Riesling is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for ros\u00e9 wine?",
+    "choices": [
+      "14\u201318\u00b0C",
+      "Room temperature",
+      "6\u201310\u00b0C",
+      "10\u201313\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Cork taint",
+      "All of the above",
+      "Brettanomyces",
+      "Oxidation"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for blackcurrant and green pepper and is typically grown in Rioja?",
+    "choices": [
+      "Sauvignon Blanc",
+      "Syrah",
+      "Chardonnay",
+      "Merlot"
+    ],
+    "answer": "Sauvignon Blanc",
+    "explanation": "Sauvignon Blanc is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Barossa Valley is best known for which grape variety?",
+    "choices": [
+      "Cabernet Sauvignon",
+      "Syrah",
+      "Tempranillo",
+      "Pinot Noir"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of lees contact in winemaking?",
+    "choices": [
+      "To soften tannins",
+      "To add oak flavors",
+      "To increase acidity",
+      "To stabilize color"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A off-dry Riesling wine typically has which of the following characteristics?",
+    "choices": [
+      "Low acidity",
+      "High tannins",
+      "Pronounced fruit flavor",
+      "Sweet finish"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with steak?",
+    "choices": [
+      "Chardonnay",
+      "Riesling",
+      "Pinot Noir",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Cabernet Sauvignon",
+    "explanation": "Cabernet Sauvignon is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for light-bodied red wine?",
+    "choices": [
+      "Room temperature",
+      "6\u201310\u00b0C",
+      "14\u201318\u00b0C",
+      "10\u201313\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Brettanomyces",
+      "Oxidation",
+      "All of the above",
+      "Cork taint"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for citrus and minerality and is typically grown in Burgundy?",
+    "choices": [
+      "Cabernet Sauvignon",
+      "Syrah",
+      "Pinot Noir",
+      "Sauvignon Blanc"
+    ],
+    "answer": "Cabernet Sauvignon",
+    "explanation": "Cabernet Sauvignon is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Tuscany is best known for which grape variety?",
+    "choices": [
+      "Pinot Noir",
+      "Cabernet Sauvignon",
+      "Tempranillo",
+      "Syrah"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of oak aging in winemaking?",
+    "choices": [
+      "To increase acidity",
+      "To stabilize color",
+      "To add oak flavors",
+      "To soften tannins"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A ros\u00e9 wine typically has which of the following characteristics?",
+    "choices": [
+      "Sweet finish",
+      "Pronounced fruit flavor",
+      "High tannins",
+      "Low acidity"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with spicy Thai food?",
+    "choices": [
+      "Riesling",
+      "Pinot Noir",
+      "Sauvignon Blanc",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Cabernet Sauvignon",
+    "explanation": "Cabernet Sauvignon is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for sparkling wine?",
+    "choices": [
+      "6\u201310\u00b0C",
+      "Room temperature",
+      "10\u201313\u00b0C",
+      "14\u201318\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Oxidation",
+      "Brettanomyces",
+      "Cork taint",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for peach and floral aromas and is typically grown in Marlborough?",
+    "choices": [
+      "Riesling",
+      "Sauvignon Blanc",
+      "Cabernet Sauvignon",
+      "Chardonnay"
+    ],
+    "answer": "Chardonnay",
+    "explanation": "Chardonnay is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Marlborough is best known for which grape variety?",
+    "choices": [
+      "Sangiovese",
+      "Pinot Noir",
       "Syrah",
       "Cabernet Sauvignon"
     ],
+    "answer": "Sangiovese",
+    "explanation": "Sangiovese is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of oak aging in winemaking?",
+    "choices": [
+      "To increase acidity",
+      "To add oak flavors",
+      "To stabilize color",
+      "To soften tannins"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A off-dry Riesling wine typically has which of the following characteristics?",
+    "choices": [
+      "Sweet finish",
+      "Pronounced fruit flavor",
+      "Low acidity",
+      "High tannins"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with blue cheese?",
+    "choices": [
+      "Pinot Noir",
+      "Sauvignon Blanc",
+      "Chardonnay",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for sparkling wine?",
+    "choices": [
+      "6\u201310\u00b0C",
+      "10\u201313\u00b0C",
+      "Room temperature",
+      "14\u201318\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Cork taint",
+      "Brettanomyces",
+      "Oxidation",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for blackcurrant and green pepper and is typically grown in Tuscany?",
+    "choices": [
+      "Riesling",
+      "Merlot",
+      "Pinot Noir",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Rioja is best known for which grape variety?",
+    "choices": [
+      "Chardonnay",
+      "Pinot Noir",
+      "Malbec",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Malbec",
+    "explanation": "Malbec is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of oak aging in winemaking?",
+    "choices": [
+      "To add oak flavors",
+      "To increase acidity",
+      "To soften tannins",
+      "To stabilize color"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A full-bodied red wine typically has which of the following characteristics?",
+    "choices": [
+      "Low acidity",
+      "High tannins",
+      "Sweet finish",
+      "Pronounced fruit flavor"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with spicy Thai food?",
+    "choices": [
+      "Chardonnay",
+      "Pinot Noir",
+      "Sauvignon Blanc",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Chardonnay",
+    "explanation": "Chardonnay is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for sparkling wine?",
+    "choices": [
+      "Room temperature",
+      "6\u201310\u00b0C",
+      "14\u201318\u00b0C",
+      "10\u201313\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Cork taint",
+      "All of the above",
+      "Brettanomyces",
+      "Oxidation"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for citrus and minerality and is typically grown in Tuscany?",
+    "choices": [
+      "Merlot",
+      "Pinot Noir",
+      "Riesling",
+      "Syrah"
+    ],
     "answer": "Syrah",
-    "explanation": "Syrah often expresses aromas of black pepper, violet, and dark berries, especially from the Northern Rh\u00f4ne."
-  },
-  {
-    "category": "Wine Production",
-    "question": "What is the effect of oak aging on red wines?",
-    "choices": [
-      "It increases acidity",
-      "It reduces alcohol",
-      "It adds flavors like vanilla, smoke, and spice",
-      "It stops malolactic fermentation"
-    ],
-    "answer": "It adds flavors like vanilla, smoke, and spice",
-    "explanation": "Oak aging contributes secondary flavors like vanilla, smoke, and spice depending on the type and age of the oak."
-  },
-  {
-    "category": "Wine Production",
-    "question": "What is the purpose of blending different grape varieties?",
-    "choices": [
-      "To decrease sugar content",
-      "To create a sparkling wine",
-      "To improve balance, complexity, and consistency",
-      "To make the wine suitable for aging"
-    ],
-    "answer": "To improve balance, complexity, and consistency",
-    "explanation": "Blending allows winemakers to balance acidity, tannin, alcohol, and flavors for a more harmonious wine."
-  },
-  {
-    "category": "Wine Production",
-    "question": "Which method is used to produce most high-quality sparkling wines?",
-    "choices": [
-      "Carbonation method",
-      "Transfer method",
-      "Tank method",
-      "Traditional method"
-    ],
-    "answer": "Traditional method",
-    "explanation": "The traditional method involves a second fermentation in the bottle and is used for Champagne and other quality sparkling wines."
-  },
-  {
-    "category": "Wine Production",
-    "question": "What does 'sur lie' aging refer to?",
-    "choices": [
-      "Aging in stainless steel tanks",
-      "Aging in contact with grape skins",
-      "Aging in contact with dead yeast cells",
-      "Aging with added sugar and sulfur"
-    ],
-    "answer": "Aging in contact with dead yeast cells",
-    "explanation": "'Sur lie' aging refers to wine remaining in contact with lees (dead yeast), which adds texture and complexity."
+    "explanation": "Syrah is the correct answer based on common WSET Level 2 knowledge."
   },
   {
     "category": "Regions",
-    "question": "Which region in France is famous for producing Chenin Blanc and Cabernet Franc?",
+    "question": "The wine region of Marlborough is best known for which grape variety?",
     "choices": [
-      "Alsace",
-      "Bordeaux",
-      "Loire Valley",
-      "Languedoc"
+      "Malbec",
+      "Pinot Noir",
+      "Syrah",
+      "Sangiovese"
     ],
-    "answer": "Loire Valley",
-    "explanation": "The Loire Valley is known for Chenin Blanc (Vouvray) and Cabernet Franc (Chinon)."
+    "answer": "Malbec",
+    "explanation": "Malbec is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of oak aging in winemaking?",
+    "choices": [
+      "To soften tannins",
+      "To add oak flavors",
+      "To stabilize color",
+      "To increase acidity"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A full-bodied red wine typically has which of the following characteristics?",
+    "choices": [
+      "Pronounced fruit flavor",
+      "High tannins",
+      "Low acidity",
+      "Sweet finish"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with creamy pasta?",
+    "choices": [
+      "Cabernet Sauvignon",
+      "Chardonnay",
+      "Riesling",
+      "Pinot Noir"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for light-bodied red wine?",
+    "choices": [
+      "Room temperature",
+      "6\u201310\u00b0C",
+      "14\u201318\u00b0C",
+      "10\u201313\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Cork taint",
+      "Oxidation",
+      "Brettanomyces",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for blackcurrant and green pepper and is typically grown in Barossa Valley?",
+    "choices": [
+      "Merlot",
+      "Riesling",
+      "Syrah",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Cabernet Sauvignon",
+    "explanation": "Cabernet Sauvignon is the correct answer based on common WSET Level 2 knowledge."
   },
   {
     "category": "Regions",
-    "question": "Where is the Barossa Valley located?",
+    "question": "The wine region of Barossa Valley is best known for which grape variety?",
     "choices": [
-      "South Africa",
-      "New Zealand",
-      "Australia",
-      "Chile"
+      "Malbec",
+      "Sangiovese",
+      "Tempranillo",
+      "Chardonnay"
     ],
-    "answer": "Australia",
-    "explanation": "The Barossa Valley is a premium wine region in South Australia known for powerful Shiraz wines."
+    "answer": "Sangiovese",
+    "explanation": "Sangiovese is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of lees contact in winemaking?",
+    "choices": [
+      "To increase acidity",
+      "To add oak flavors",
+      "To soften tannins",
+      "To stabilize color"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A dry white wine typically has which of the following characteristics?",
+    "choices": [
+      "High tannins",
+      "Low acidity",
+      "Sweet finish",
+      "Pronounced fruit flavor"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with steak?",
+    "choices": [
+      "Chardonnay",
+      "Riesling",
+      "Sauvignon Blanc",
+      "Pinot Noir"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for ros\u00e9 wine?",
+    "choices": [
+      "14\u201318\u00b0C",
+      "10\u201313\u00b0C",
+      "6\u201310\u00b0C",
+      "Room temperature"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "All of the above",
+      "Oxidation",
+      "Brettanomyces",
+      "Cork taint"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for citrus and minerality and is typically grown in Rioja?",
+    "choices": [
+      "Riesling",
+      "Chardonnay",
+      "Merlot",
+      "Sauvignon Blanc"
+    ],
+    "answer": "Merlot",
+    "explanation": "Merlot is the correct answer based on common WSET Level 2 knowledge."
   },
   {
     "category": "Regions",
-    "question": "What region is best known for Pinot Noir and Chardonnay in France?",
+    "question": "The wine region of Rioja is best known for which grape variety?",
     "choices": [
-      "Bordeaux",
-      "Rhone Valley",
-      "Burgundy",
-      "Alsace"
+      "Tempranillo",
+      "Cabernet Sauvignon",
+      "Malbec",
+      "Chardonnay"
     ],
-    "answer": "Burgundy",
-    "explanation": "Burgundy is the spiritual home of Pinot Noir and Chardonnay, producing some of the world\u2019s most sought-after wines."
+    "answer": "Tempranillo",
+    "explanation": "Tempranillo is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of lees contact in winemaking?",
+    "choices": [
+      "To stabilize color",
+      "To add oak flavors",
+      "To increase acidity",
+      "To soften tannins"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A off-dry Riesling wine typically has which of the following characteristics?",
+    "choices": [
+      "Pronounced fruit flavor",
+      "High tannins",
+      "Low acidity",
+      "Sweet finish"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with blue cheese?",
+    "choices": [
+      "Chardonnay",
+      "Pinot Noir",
+      "Riesling",
+      "Sauvignon Blanc"
+    ],
+    "answer": "Chardonnay",
+    "explanation": "Chardonnay is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for ros\u00e9 wine?",
+    "choices": [
+      "Room temperature",
+      "6\u201310\u00b0C",
+      "14\u201318\u00b0C",
+      "10\u201313\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Brettanomyces",
+      "Oxidation",
+      "Cork taint",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for peach and floral aromas and is typically grown in Barossa Valley?",
+    "choices": [
+      "Merlot",
+      "Riesling",
+      "Cabernet Sauvignon",
+      "Syrah"
+    ],
+    "answer": "Merlot",
+    "explanation": "Merlot is the correct answer based on common WSET Level 2 knowledge."
   },
   {
     "category": "Regions",
-    "question": "Which region in Spain is known for aging wines in oak and labeling by age category?",
+    "question": "The wine region of Tuscany is best known for which grape variety?",
     "choices": [
-      "Priorat",
-      "Rueda",
-      "Rioja",
-      "R\u00edas Baixas"
+      "Chardonnay",
+      "Sangiovese",
+      "Cabernet Sauvignon",
+      "Pinot Noir"
     ],
-    "answer": "Rioja",
-    "explanation": "Rioja classifies wines by aging: Crianza, Reserva, and Gran Reserva, with mandatory oak aging periods."
+    "answer": "Chardonnay",
+    "explanation": "Chardonnay is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of oak aging in winemaking?",
+    "choices": [
+      "To increase acidity",
+      "To add oak flavors",
+      "To stabilize color",
+      "To soften tannins"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A dry white wine typically has which of the following characteristics?",
+    "choices": [
+      "Low acidity",
+      "Sweet finish",
+      "Pronounced fruit flavor",
+      "High tannins"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with creamy pasta?",
+    "choices": [
+      "Riesling",
+      "Chardonnay",
+      "Pinot Noir",
+      "Sauvignon Blanc"
+    ],
+    "answer": "Chardonnay",
+    "explanation": "Chardonnay is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for light-bodied red wine?",
+    "choices": [
+      "Room temperature",
+      "6\u201310\u00b0C",
+      "10\u201313\u00b0C",
+      "14\u201318\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Cork taint",
+      "Brettanomyces",
+      "Oxidation",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for citrus and minerality and is typically grown in Mosel?",
+    "choices": [
+      "Cabernet Sauvignon",
+      "Merlot",
+      "Pinot Noir",
+      "Riesling"
+    ],
+    "answer": "Cabernet Sauvignon",
+    "explanation": "Cabernet Sauvignon is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Barossa Valley is best known for which grape variety?",
+    "choices": [
+      "Malbec",
+      "Cabernet Sauvignon",
+      "Syrah",
+      "Tempranillo"
+    ],
+    "answer": "Cabernet Sauvignon",
+    "explanation": "Cabernet Sauvignon is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of lees contact in winemaking?",
+    "choices": [
+      "To stabilize color",
+      "To add oak flavors",
+      "To soften tannins",
+      "To increase acidity"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A full-bodied red wine typically has which of the following characteristics?",
+    "choices": [
+      "High tannins",
+      "Low acidity",
+      "Sweet finish",
+      "Pronounced fruit flavor"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with spicy Thai food?",
+    "choices": [
+      "Pinot Noir",
+      "Cabernet Sauvignon",
+      "Sauvignon Blanc",
+      "Chardonnay"
+    ],
+    "answer": "Sauvignon Blanc",
+    "explanation": "Sauvignon Blanc is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for sparkling wine?",
+    "choices": [
+      "Room temperature",
+      "14\u201318\u00b0C",
+      "6\u201310\u00b0C",
+      "10\u201313\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "All of the above",
+      "Cork taint",
+      "Brettanomyces",
+      "Oxidation"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for blackcurrant and green pepper and is typically grown in Barossa Valley?",
+    "choices": [
+      "Chardonnay",
+      "Merlot",
+      "Pinot Noir",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Barossa Valley is best known for which grape variety?",
+    "choices": [
+      "Syrah",
+      "Chardonnay",
+      "Tempranillo",
+      "Sangiovese"
+    ],
+    "answer": "Syrah",
+    "explanation": "Syrah is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of lees contact in winemaking?",
+    "choices": [
+      "To stabilize color",
+      "To increase acidity",
+      "To add oak flavors",
+      "To soften tannins"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A ros\u00e9 wine typically has which of the following characteristics?",
+    "choices": [
+      "High tannins",
+      "Sweet finish",
+      "Low acidity",
+      "Pronounced fruit flavor"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with steak?",
+    "choices": [
+      "Chardonnay",
+      "Cabernet Sauvignon",
+      "Sauvignon Blanc",
+      "Pinot Noir"
+    ],
+    "answer": "Cabernet Sauvignon",
+    "explanation": "Cabernet Sauvignon is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for ros\u00e9 wine?",
+    "choices": [
+      "10\u201313\u00b0C",
+      "Room temperature",
+      "14\u201318\u00b0C",
+      "6\u201310\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Brettanomyces",
+      "Cork taint",
+      "Oxidation",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for blackcurrant and green pepper and is typically grown in Mosel?",
+    "choices": [
+      "Syrah",
+      "Sauvignon Blanc",
+      "Pinot Noir",
+      "Merlot"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Barossa Valley is best known for which grape variety?",
+    "choices": [
+      "Syrah",
+      "Malbec",
+      "Tempranillo",
+      "Sangiovese"
+    ],
+    "answer": "Tempranillo",
+    "explanation": "Tempranillo is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of cold stabilization in winemaking?",
+    "choices": [
+      "To add oak flavors",
+      "To stabilize color",
+      "To increase acidity",
+      "To soften tannins"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A off-dry Riesling wine typically has which of the following characteristics?",
+    "choices": [
+      "Sweet finish",
+      "High tannins",
+      "Pronounced fruit flavor",
+      "Low acidity"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with blue cheese?",
+    "choices": [
+      "Chardonnay",
+      "Riesling",
+      "Sauvignon Blanc",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Cabernet Sauvignon",
+    "explanation": "Cabernet Sauvignon is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for ros\u00e9 wine?",
+    "choices": [
+      "6\u201310\u00b0C",
+      "14\u201318\u00b0C",
+      "10\u201313\u00b0C",
+      "Room temperature"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "All of the above",
+      "Oxidation",
+      "Cork taint",
+      "Brettanomyces"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for blackcurrant and green pepper and is typically grown in Barossa Valley?",
+    "choices": [
+      "Merlot",
+      "Pinot Noir",
+      "Syrah",
+      "Sauvignon Blanc"
+    ],
+    "answer": "Merlot",
+    "explanation": "Merlot is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Rioja is best known for which grape variety?",
+    "choices": [
+      "Chardonnay",
+      "Cabernet Sauvignon",
+      "Pinot Noir",
+      "Malbec"
+    ],
+    "answer": "Cabernet Sauvignon",
+    "explanation": "Cabernet Sauvignon is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of cold stabilization in winemaking?",
+    "choices": [
+      "To add oak flavors",
+      "To soften tannins",
+      "To increase acidity",
+      "To stabilize color"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A off-dry Riesling wine typically has which of the following characteristics?",
+    "choices": [
+      "Low acidity",
+      "Pronounced fruit flavor",
+      "Sweet finish",
+      "High tannins"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with spicy Thai food?",
+    "choices": [
+      "Pinot Noir",
+      "Cabernet Sauvignon",
+      "Sauvignon Blanc",
+      "Riesling"
+    ],
+    "answer": "Cabernet Sauvignon",
+    "explanation": "Cabernet Sauvignon is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for sparkling wine?",
+    "choices": [
+      "Room temperature",
+      "14\u201318\u00b0C",
+      "10\u201313\u00b0C",
+      "6\u201310\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Brettanomyces",
+      "Cork taint",
+      "Oxidation",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for citrus and minerality and is typically grown in Mosel?",
+    "choices": [
+      "Sauvignon Blanc",
+      "Merlot",
+      "Syrah",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Sauvignon Blanc",
+    "explanation": "Sauvignon Blanc is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Tuscany is best known for which grape variety?",
+    "choices": [
+      "Pinot Noir",
+      "Sangiovese",
+      "Malbec",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Cabernet Sauvignon",
+    "explanation": "Cabernet Sauvignon is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of lees contact in winemaking?",
+    "choices": [
+      "To increase acidity",
+      "To soften tannins",
+      "To stabilize color",
+      "To add oak flavors"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A off-dry Riesling wine typically has which of the following characteristics?",
+    "choices": [
+      "Pronounced fruit flavor",
+      "Sweet finish",
+      "High tannins",
+      "Low acidity"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with spicy Thai food?",
+    "choices": [
+      "Cabernet Sauvignon",
+      "Chardonnay",
+      "Riesling",
+      "Sauvignon Blanc"
+    ],
+    "answer": "Cabernet Sauvignon",
+    "explanation": "Cabernet Sauvignon is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for full-bodied white wine?",
+    "choices": [
+      "10\u201313\u00b0C",
+      "Room temperature",
+      "14\u201318\u00b0C",
+      "6\u201310\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "All of the above",
+      "Cork taint",
+      "Oxidation",
+      "Brettanomyces"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for high acidity and green apple and is typically grown in Burgundy?",
+    "choices": [
+      "Chardonnay",
+      "Sauvignon Blanc",
+      "Pinot Noir",
+      "Merlot"
+    ],
+    "answer": "Sauvignon Blanc",
+    "explanation": "Sauvignon Blanc is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Marlborough is best known for which grape variety?",
+    "choices": [
+      "Tempranillo",
+      "Syrah",
+      "Chardonnay",
+      "Malbec"
+    ],
+    "answer": "Tempranillo",
+    "explanation": "Tempranillo is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of malolactic fermentation in winemaking?",
+    "choices": [
+      "To stabilize color",
+      "To soften tannins",
+      "To add oak flavors",
+      "To increase acidity"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A ros\u00e9 wine typically has which of the following characteristics?",
+    "choices": [
+      "Low acidity",
+      "Sweet finish",
+      "Pronounced fruit flavor",
+      "High tannins"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with blue cheese?",
+    "choices": [
+      "Sauvignon Blanc",
+      "Chardonnay",
+      "Cabernet Sauvignon",
+      "Riesling"
+    ],
+    "answer": "Sauvignon Blanc",
+    "explanation": "Sauvignon Blanc is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for ros\u00e9 wine?",
+    "choices": [
+      "Room temperature",
+      "10\u201313\u00b0C",
+      "14\u201318\u00b0C",
+      "6\u201310\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Cork taint",
+      "All of the above",
+      "Brettanomyces",
+      "Oxidation"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for high acidity and green apple and is typically grown in Mosel?",
+    "choices": [
+      "Chardonnay",
+      "Pinot Noir",
+      "Cabernet Sauvignon",
+      "Syrah"
+    ],
+    "answer": "Chardonnay",
+    "explanation": "Chardonnay is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Rioja is best known for which grape variety?",
+    "choices": [
+      "Syrah",
+      "Malbec",
+      "Tempranillo",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Syrah",
+    "explanation": "Syrah is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of oak aging in winemaking?",
+    "choices": [
+      "To increase acidity",
+      "To soften tannins",
+      "To stabilize color",
+      "To add oak flavors"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A ros\u00e9 wine typically has which of the following characteristics?",
+    "choices": [
+      "Low acidity",
+      "Sweet finish",
+      "Pronounced fruit flavor",
+      "High tannins"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with spicy Thai food?",
+    "choices": [
+      "Chardonnay",
+      "Riesling",
+      "Cabernet Sauvignon",
+      "Pinot Noir"
+    ],
+    "answer": "Chardonnay",
+    "explanation": "Chardonnay is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for full-bodied white wine?",
+    "choices": [
+      "6\u201310\u00b0C",
+      "Room temperature",
+      "14\u201318\u00b0C",
+      "10\u201313\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Oxidation",
+      "All of the above",
+      "Brettanomyces",
+      "Cork taint"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for blackcurrant and green pepper and is typically grown in Burgundy?",
+    "choices": [
+      "Cabernet Sauvignon",
+      "Merlot",
+      "Sauvignon Blanc",
+      "Syrah"
+    ],
+    "answer": "Syrah",
+    "explanation": "Syrah is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Burgundy is best known for which grape variety?",
+    "choices": [
+      "Tempranillo",
+      "Malbec",
+      "Syrah",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Malbec",
+    "explanation": "Malbec is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of cold stabilization in winemaking?",
+    "choices": [
+      "To soften tannins",
+      "To stabilize color",
+      "To add oak flavors",
+      "To increase acidity"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A dry white wine typically has which of the following characteristics?",
+    "choices": [
+      "Low acidity",
+      "Sweet finish",
+      "Pronounced fruit flavor",
+      "High tannins"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with blue cheese?",
+    "choices": [
+      "Chardonnay",
+      "Pinot Noir",
+      "Sauvignon Blanc",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for sparkling wine?",
+    "choices": [
+      "6\u201310\u00b0C",
+      "10\u201313\u00b0C",
+      "Room temperature",
+      "14\u201318\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Brettanomyces",
+      "Cork taint",
+      "All of the above",
+      "Oxidation"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for citrus and minerality and is typically grown in Tuscany?",
+    "choices": [
+      "Sauvignon Blanc",
+      "Pinot Noir",
+      "Cabernet Sauvignon",
+      "Chardonnay"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Rioja is best known for which grape variety?",
+    "choices": [
+      "Cabernet Sauvignon",
+      "Malbec",
+      "Syrah",
+      "Chardonnay"
+    ],
+    "answer": "Syrah",
+    "explanation": "Syrah is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of cold stabilization in winemaking?",
+    "choices": [
+      "To add oak flavors",
+      "To stabilize color",
+      "To soften tannins",
+      "To increase acidity"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A ros\u00e9 wine typically has which of the following characteristics?",
+    "choices": [
+      "High tannins",
+      "Pronounced fruit flavor",
+      "Sweet finish",
+      "Low acidity"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with creamy pasta?",
+    "choices": [
+      "Cabernet Sauvignon",
+      "Riesling",
+      "Chardonnay",
+      "Pinot Noir"
+    ],
+    "answer": "Riesling",
+    "explanation": "Riesling is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for light-bodied red wine?",
+    "choices": [
+      "14\u201318\u00b0C",
+      "6\u201310\u00b0C",
+      "Room temperature",
+      "10\u201313\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Cork taint",
+      "Brettanomyces",
+      "Oxidation",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for high acidity and green apple and is typically grown in Tuscany?",
+    "choices": [
+      "Sauvignon Blanc",
+      "Riesling",
+      "Syrah",
+      "Chardonnay"
+    ],
+    "answer": "Riesling",
+    "explanation": "Riesling is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Marlborough is best known for which grape variety?",
+    "choices": [
+      "Chardonnay",
+      "Pinot Noir",
+      "Malbec",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Chardonnay",
+    "explanation": "Chardonnay is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of lees contact in winemaking?",
+    "choices": [
+      "To soften tannins",
+      "To stabilize color",
+      "To add oak flavors",
+      "To increase acidity"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A dry white wine typically has which of the following characteristics?",
+    "choices": [
+      "Low acidity",
+      "High tannins",
+      "Pronounced fruit flavor",
+      "Sweet finish"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with grilled salmon?",
+    "choices": [
+      "Sauvignon Blanc",
+      "Cabernet Sauvignon",
+      "Pinot Noir",
+      "Riesling"
+    ],
+    "answer": "Sauvignon Blanc",
+    "explanation": "Sauvignon Blanc is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for ros\u00e9 wine?",
+    "choices": [
+      "6\u201310\u00b0C",
+      "10\u201313\u00b0C",
+      "14\u201318\u00b0C",
+      "Room temperature"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Brettanomyces",
+      "Oxidation",
+      "Cork taint",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for citrus and minerality and is typically grown in Mosel?",
+    "choices": [
+      "Pinot Noir",
+      "Syrah",
+      "Sauvignon Blanc",
+      "Riesling"
+    ],
+    "answer": "Sauvignon Blanc",
+    "explanation": "Sauvignon Blanc is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Burgundy is best known for which grape variety?",
+    "choices": [
+      "Tempranillo",
+      "Sangiovese",
+      "Syrah",
+      "Chardonnay"
+    ],
+    "answer": "Syrah",
+    "explanation": "Syrah is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of lees contact in winemaking?",
+    "choices": [
+      "To stabilize color",
+      "To soften tannins",
+      "To increase acidity",
+      "To add oak flavors"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A full-bodied red wine typically has which of the following characteristics?",
+    "choices": [
+      "Sweet finish",
+      "Low acidity",
+      "Pronounced fruit flavor",
+      "High tannins"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with blue cheese?",
+    "choices": [
+      "Cabernet Sauvignon",
+      "Riesling",
+      "Sauvignon Blanc",
+      "Chardonnay"
+    ],
+    "answer": "Riesling",
+    "explanation": "Riesling is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for sparkling wine?",
+    "choices": [
+      "14\u201318\u00b0C",
+      "Room temperature",
+      "6\u201310\u00b0C",
+      "10\u201313\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Cork taint",
+      "All of the above",
+      "Oxidation",
+      "Brettanomyces"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for high acidity and green apple and is typically grown in Tuscany?",
+    "choices": [
+      "Pinot Noir",
+      "Merlot",
+      "Riesling",
+      "Syrah"
+    ],
+    "answer": "Syrah",
+    "explanation": "Syrah is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Marlborough is best known for which grape variety?",
+    "choices": [
+      "Syrah",
+      "Pinot Noir",
+      "Chardonnay",
+      "Tempranillo"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of malolactic fermentation in winemaking?",
+    "choices": [
+      "To stabilize color",
+      "To soften tannins",
+      "To add oak flavors",
+      "To increase acidity"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A ros\u00e9 wine typically has which of the following characteristics?",
+    "choices": [
+      "Pronounced fruit flavor",
+      "Sweet finish",
+      "High tannins",
+      "Low acidity"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with grilled salmon?",
+    "choices": [
+      "Pinot Noir",
+      "Cabernet Sauvignon",
+      "Chardonnay",
+      "Sauvignon Blanc"
+    ],
+    "answer": "Sauvignon Blanc",
+    "explanation": "Sauvignon Blanc is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for sparkling wine?",
+    "choices": [
+      "14\u201318\u00b0C",
+      "6\u201310\u00b0C",
+      "10\u201313\u00b0C",
+      "Room temperature"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Brettanomyces",
+      "Oxidation",
+      "All of the above",
+      "Cork taint"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for high acidity and green apple and is typically grown in Barossa Valley?",
+    "choices": [
+      "Pinot Noir",
+      "Chardonnay",
+      "Merlot",
+      "Syrah"
+    ],
+    "answer": "Syrah",
+    "explanation": "Syrah is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Tuscany is best known for which grape variety?",
+    "choices": [
+      "Cabernet Sauvignon",
+      "Pinot Noir",
+      "Tempranillo",
+      "Chardonnay"
+    ],
+    "answer": "Tempranillo",
+    "explanation": "Tempranillo is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of malolactic fermentation in winemaking?",
+    "choices": [
+      "To stabilize color",
+      "To add oak flavors",
+      "To increase acidity",
+      "To soften tannins"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A ros\u00e9 wine typically has which of the following characteristics?",
+    "choices": [
+      "Pronounced fruit flavor",
+      "Sweet finish",
+      "High tannins",
+      "Low acidity"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with blue cheese?",
+    "choices": [
+      "Pinot Noir",
+      "Riesling",
+      "Chardonnay",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for sparkling wine?",
+    "choices": [
+      "10\u201313\u00b0C",
+      "Room temperature",
+      "14\u201318\u00b0C",
+      "6\u201310\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Cork taint",
+      "Oxidation",
+      "Brettanomyces",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for high acidity and green apple and is typically grown in Burgundy?",
+    "choices": [
+      "Riesling",
+      "Syrah",
+      "Chardonnay",
+      "Sauvignon Blanc"
+    ],
+    "answer": "Chardonnay",
+    "explanation": "Chardonnay is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Rioja is best known for which grape variety?",
+    "choices": [
+      "Sangiovese",
+      "Malbec",
+      "Syrah",
+      "Pinot Noir"
+    ],
+    "answer": "Syrah",
+    "explanation": "Syrah is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of malolactic fermentation in winemaking?",
+    "choices": [
+      "To soften tannins",
+      "To stabilize color",
+      "To add oak flavors",
+      "To increase acidity"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A off-dry Riesling wine typically has which of the following characteristics?",
+    "choices": [
+      "Sweet finish",
+      "Low acidity",
+      "High tannins",
+      "Pronounced fruit flavor"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with blue cheese?",
+    "choices": [
+      "Pinot Noir",
+      "Sauvignon Blanc",
+      "Cabernet Sauvignon",
+      "Chardonnay"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for ros\u00e9 wine?",
+    "choices": [
+      "6\u201310\u00b0C",
+      "10\u201313\u00b0C",
+      "14\u201318\u00b0C",
+      "Room temperature"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Oxidation",
+      "Cork taint",
+      "All of the above",
+      "Brettanomyces"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for peach and floral aromas and is typically grown in Mosel?",
+    "choices": [
+      "Pinot Noir",
+      "Syrah",
+      "Chardonnay",
+      "Riesling"
+    ],
+    "answer": "Chardonnay",
+    "explanation": "Chardonnay is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Mosel is best known for which grape variety?",
+    "choices": [
+      "Cabernet Sauvignon",
+      "Sangiovese",
+      "Syrah",
+      "Tempranillo"
+    ],
+    "answer": "Sangiovese",
+    "explanation": "Sangiovese is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of lees contact in winemaking?",
+    "choices": [
+      "To soften tannins",
+      "To stabilize color",
+      "To add oak flavors",
+      "To increase acidity"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A ros\u00e9 wine typically has which of the following characteristics?",
+    "choices": [
+      "Pronounced fruit flavor",
+      "Low acidity",
+      "Sweet finish",
+      "High tannins"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with grilled salmon?",
+    "choices": [
+      "Chardonnay",
+      "Sauvignon Blanc",
+      "Cabernet Sauvignon",
+      "Pinot Noir"
+    ],
+    "answer": "Chardonnay",
+    "explanation": "Chardonnay is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for sparkling wine?",
+    "choices": [
+      "6\u201310\u00b0C",
+      "Room temperature",
+      "10\u201313\u00b0C",
+      "14\u201318\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Oxidation",
+      "All of the above",
+      "Cork taint",
+      "Brettanomyces"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for high acidity and green apple and is typically grown in Marlborough?",
+    "choices": [
+      "Riesling",
+      "Cabernet Sauvignon",
+      "Syrah",
+      "Pinot Noir"
+    ],
+    "answer": "Syrah",
+    "explanation": "Syrah is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Burgundy is best known for which grape variety?",
+    "choices": [
+      "Pinot Noir",
+      "Chardonnay",
+      "Cabernet Sauvignon",
+      "Syrah"
+    ],
+    "answer": "Chardonnay",
+    "explanation": "Chardonnay is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of malolactic fermentation in winemaking?",
+    "choices": [
+      "To increase acidity",
+      "To add oak flavors",
+      "To soften tannins",
+      "To stabilize color"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A dry white wine typically has which of the following characteristics?",
+    "choices": [
+      "High tannins",
+      "Pronounced fruit flavor",
+      "Sweet finish",
+      "Low acidity"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with steak?",
+    "choices": [
+      "Chardonnay",
+      "Sauvignon Blanc",
+      "Pinot Noir",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Cabernet Sauvignon",
+    "explanation": "Cabernet Sauvignon is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Storage & Service",
+    "question": "What is the recommended service temperature for sparkling wine?",
+    "choices": [
+      "Room temperature",
+      "6\u201310\u00b0C",
+      "10\u201313\u00b0C",
+      "14\u201318\u00b0C"
+    ],
+    "answer": "6\u201310\u00b0C",
+    "explanation": "6\u201310\u00b0C is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Faults & Quality",
+    "question": "Which of the following is considered a wine fault?",
+    "choices": [
+      "Oxidation",
+      "Brettanomyces",
+      "Cork taint",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of the above is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is known for high acidity and green apple and is typically grown in Marlborough?",
+    "choices": [
+      "Merlot",
+      "Chardonnay",
+      "Cabernet Sauvignon",
+      "Pinot Noir"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "Pinot Noir is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Regions",
+    "question": "The wine region of Tuscany is best known for which grape variety?",
+    "choices": [
+      "Pinot Noir",
+      "Chardonnay",
+      "Sangiovese",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Cabernet Sauvignon",
+    "explanation": "Cabernet Sauvignon is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main purpose of malolactic fermentation in winemaking?",
+    "choices": [
+      "To stabilize color",
+      "To increase acidity",
+      "To add oak flavors",
+      "To soften tannins"
+    ],
+    "answer": "To soften tannins",
+    "explanation": "To soften tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "A ros\u00e9 wine typically has which of the following characteristics?",
+    "choices": [
+      "High tannins",
+      "Pronounced fruit flavor",
+      "Sweet finish",
+      "Low acidity"
+    ],
+    "answer": "High tannins",
+    "explanation": "High tannins is the correct answer based on common WSET Level 2 knowledge."
+  },
+  {
+    "category": "Food & Wine Pairing",
+    "question": "Which wine would best pair with grilled salmon?",
+    "choices": [
+      "Riesling",
+      "Pinot Noir",
+      "Chardonnay",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Riesling",
+    "explanation": "Riesling is the correct answer based on common WSET Level 2 knowledge."
   }
 ]
