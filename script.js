@@ -93,11 +93,11 @@ function checkAnswer(selected, question) {
   const feedback = document.getElementById('feedback');
   totalAnswered++;
   if (selected === question.answer) {
-    feedback.textContent = '✅ Correct! ' + question.explanation + '<br.';
+    feedback.textContent = '✅ Correct! ' + question.explanation + `<br>`;
     feedback.className = 'correct';
     totalCorrect++;
   } else {
-    feedback.textContent = `❌ Incorrect. Correct answer: ${question.answer}. ` + question.explanation + '<br.';
+    feedback.textContent = `❌ Incorrect. Correct answer: ${question.answer}. ` + question.explanation + `<br>`;
     feedback.className = 'incorrect';
     missed.push(question);
     localStorage.setItem('missedQuestions', JSON.stringify(missed));
@@ -138,7 +138,14 @@ function resetQuiz() {
 }
 
 function quitQuiz() {
-  resetQuiz();
+  const percent = totalAnswered === 0 ? 0 : ((totalCorrect / totalAnswered) * 100).toFixed(1);
+  document.getElementById('quiz-container').innerHTML = `
+    <h2 class="text-center text-xl font-semibold text-yellow-500 mb-2">⚠️ Quiz Ended Early</h2>
+    <p class="text-center mb-4">You answered ${totalCorrect} out of ${totalAnswered} correctly (${percent}%).</p>
+    <button onclick="resetQuiz()" class="w-full bg-blue-600 hover:bg-blue-700 text-white py-2 rounded">Start New Quiz</button>
+  `;
+  document.getElementById('quit-btn').classList.add('hidden');
+  document.getElementById('score').classList.add('hidden');
 }
 
 function shuffleArray(arr) {
