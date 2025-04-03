@@ -19,6 +19,10 @@ function startQuiz() {
   }
   currentIndex = 0;
   document.getElementById('quiz-container').classList.remove('hidden');
+  document.getElementById('category-label').textContent =
+    category === 'All' ? 'Category: Randomized' :
+    category === 'Missed' ? 'Category: Missed Questions' :
+    'Category: ' + category;
   showQuestion();
 }
 
@@ -30,7 +34,7 @@ function showQuestion() {
   q.choices.forEach(choice => {
     const btn = document.createElement('button');
     btn.textContent = choice;
-    btn.className = 'btn block w-full text-left';
+    btn.className = 'btn block w-full text-left border p-2 rounded hover:bg-gray-100';
     btn.onclick = () => checkAnswer(choice, q);
     choicesDiv.appendChild(btn);
   });
@@ -42,10 +46,10 @@ function showQuestion() {
 function checkAnswer(selected, question) {
   const feedback = document.getElementById('feedback');
   if (selected === question.answer) {
-    feedback.textContent = 'Correct! ' + question.explanation;
+    feedback.textContent = '✅ Correct! ' + question.explanation;
     feedback.className = 'correct';
   } else {
-    feedback.textContent = `Incorrect. Correct answer: ${question.answer}. ` + question.explanation;
+    feedback.textContent = `❌ Incorrect. Correct answer: ${question.answer}. ` + question.explanation;
     feedback.className = 'incorrect';
     missed.push(question);
     localStorage.setItem('missedQuestions', JSON.stringify(missed));
@@ -58,7 +62,7 @@ function nextQuestion() {
   if (currentIndex < questions.length) {
     showQuestion();
   } else {
-    document.getElementById('quiz-container').innerHTML = '<h2 class="text-center">Quiz Complete!</h2>';
+    document.getElementById('quiz-container').innerHTML = '<h2 class="text-center text-xl font-semibold text-green-600">🎉 Quiz Complete!</h2>';
   }
 }
 
