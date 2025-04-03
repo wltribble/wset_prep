@@ -1,32 +1,45 @@
+
 let allQuestions = [];
 let availableQuestions = [];
 let missed = JSON.parse(localStorage.getItem('missedQuestions') || '[]');
 let totalAnswered = 0;
 let totalCorrect = 0;
 
-async function loadQuestions() {
-  const res = await fetch('wset2_questions.json');
-  allQuestions = await res.json();
+// Maps categories to their corresponding JSON filenames
+const categoryFiles = {
+  "Varietals": "varietals.json",
+  "Regions": "regions.json",
+  "Wine Production": "winemaking.json",
+  "Styles of Wine": "styles.json"
+};
+
+async function loadQuestions(category) {
+  if (category === 'Missed') {
+    availableQuestions = [...missed];
+    startQuiz(category);
+  } else if (category === 'All') {
+    const files = Object.values(categoryFiles);
+    const requests = files.map(file => fetch(file).then(res => res.json()));
+    const data = await Promise.all(requests);
+    allQuestions = data.flat();
+    availableQuestions = shuffleArray([...allQuestions]);
+    startQuiz(category);
+  } else {
+    const file = categoryFiles[category];
+    if (!file) return;
+    const res = await fetch(file);
+    allQuestions = await res.json();
+    availableQuestions = shuffleArray([...allQuestions]);
+    startQuiz(category);
+  }
 }
 
-function startQuiz() {
-  const category = document.getElementById('category-select').value;
-  if (category === 'All') {
-    availableQuestions = [...allQuestions];
-  } else if (category === 'Missed') {
-    availableQuestions = [...missed];
-  } else {
-    availableQuestions = allQuestions.filter(q => q.category === category);
-  }
-
-  availableQuestions = shuffleArray(availableQuestions);
+function startQuiz(category) {
   totalAnswered = 0;
   totalCorrect = 0;
-
   document.getElementById('start-btn').classList.add('hidden');
   document.getElementById('category-select').classList.add('hidden');
   document.querySelector('label[for=category-select]').classList.add('hidden');
-
   document.getElementById('quiz-container').classList.remove('hidden');
   document.getElementById('quit-btn').classList.remove('hidden');
   document.getElementById('score').classList.remove('hidden');
@@ -58,7 +71,6 @@ function showQuestion() {
   window.currentQuestion = q;
 
   document.getElementById('question').textContent = q.question;
-
   const choicesDiv = document.getElementById('choices');
   choicesDiv.innerHTML = '';
 
@@ -132,8 +144,9 @@ function shuffleArray(arr) {
   return arr.sort(() => Math.random() - 0.5);
 }
 
-document.getElementById('start-btn').addEventListener('click', startQuiz);
+document.getElementById('start-btn').addEventListener('click', () => {
+  const category = document.getElementById('category-select').value;
+  loadQuestions(category);
+});
 document.getElementById('next-btn').addEventListener('click', nextQuestion);
 document.getElementById('quit-btn').addEventListener('click', quitQuiz);
-
-loadQuestions();

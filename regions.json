@@ -1,0 +1,398 @@
+[
+  {
+    "category": "Regions",
+    "question": "Which region is best known for producing high-quality Pinot Noir and Chardonnay in France?",
+    "choices": [
+      "Bordeaux",
+      "Alsace",
+      "Burgundy",
+      "Languedoc"
+    ],
+    "answer": "Burgundy",
+    "explanation": "\u2705 Burgundy is renowned for producing world-class Pinot Noir and Chardonnay, particularly in areas like C\u00f4te de Nuits and C\u00f4te de Beaune. \u274c Bordeaux specializes in Cabernet Sauvignon and Merlot blends. \u274c Alsace focuses on aromatic white grapes like Riesling and Gew\u00fcrztraminer. \u274c Languedoc produces a range of wines but is not known for high-end Pinot Noir or Chardonnay."
+  },
+  {
+    "category": "Regions",
+    "question": "Which Italian region is the home of Barolo and Barbaresco wines?",
+    "choices": [
+      "Tuscany",
+      "Piedmont",
+      "Veneto",
+      "Sicily"
+    ],
+    "answer": "Piedmont",
+    "explanation": "\u2705 Piedmont, in northwest Italy, is the only region that produces Barolo and Barbaresco, both made from the Nebbiolo grape. \u274c Tuscany is home to Chianti and Brunello. \u274c Veneto is known for Valpolicella and Soave. \u274c Sicily is known for Nero d'Avola and Marsala."
+  },
+  {
+    "category": "Regions",
+    "question": "Which region is famous for Sauvignon Blanc wines with high acidity and notes of gooseberry and grass?",
+    "choices": [
+      "Mosel",
+      "Rioja",
+      "Loire Valley",
+      "Tuscany"
+    ],
+    "answer": "Loire Valley",
+    "explanation": "\u2705 The Loire Valley, particularly Sancerre and Pouilly-Fum\u00e9, is known for Sauvignon Blanc with pronounced acidity and herbaceous aromas. \u274c Mosel is famous for Riesling. \u274c Rioja produces mainly red wines from Tempranillo. \u274c Tuscany focuses on Sangiovese-based reds."
+  },
+  {
+    "category": "Regions",
+    "question": "Which wine region is best known for high-quality Rieslings grown on steep slate slopes?",
+    "choices": [
+      "Bordeaux",
+      "Mosel",
+      "Alsace",
+      "Provence"
+    ],
+    "answer": "Mosel",
+    "explanation": "\u2705 The Mosel region in Germany is renowned for Rieslings grown on steep slate soils, contributing to their minerality and high acidity. \u274c Bordeaux is focused on red blends and Semillon/Sauvignon for whites. \u274c Alsace also produces Riesling, but Mosel is better known for it. \u274c Provence is known for ros\u00e9, not Riesling."
+  },
+  {
+    "category": "Regions",
+    "question": "Which Australian region is known for powerful Shiraz wines with dark fruit and peppery flavors?",
+    "choices": [
+      "Coonawarra",
+      "Barossa Valley",
+      "Hunter Valley",
+      "Margaret River"
+    ],
+    "answer": "Barossa Valley",
+    "explanation": "\u2705 Barossa Valley is the most iconic Australian region for Shiraz, producing full-bodied wines with rich fruit and spice. \u274c Coonawarra is known more for Cabernet Sauvignon. \u274c Hunter Valley is famous for Semillon. \u274c Margaret River excels in Bordeaux-style blends and Chardonnay."
+  },
+  {
+    "category": "Regions",
+    "question": "Which region in Spain classifies its wines by age categories such as Crianza, Reserva, and Gran Reserva?",
+    "choices": [
+      "Priorat",
+      "R\u00edas Baixas",
+      "Rioja",
+      "La Mancha"
+    ],
+    "answer": "Rioja",
+    "explanation": "\u2705 Rioja uses strict aging classifications for red wines, including Crianza (minimum 2 years aging), Reserva (3 years), and Gran Reserva (5 years). \u274c Priorat focuses on powerful reds but does not use these classifications. \u274c R\u00edas Baixas is known for Albari\u00f1o. \u274c La Mancha is a large-volume region with less strict regulation."
+  },
+  {
+    "category": "Regions",
+    "question": "Which region is located in northeastern Italy and is known for sparkling wines made from Glera?",
+    "choices": [
+      "Veneto",
+      "Tuscany",
+      "Piedmont",
+      "Lombardy"
+    ],
+    "answer": "Veneto",
+    "explanation": "\u2705 Veneto is home to the Prosecco DOC and DOCG zones, producing sparkling wines from the Glera grape. \u274c Tuscany is famous for Chianti. \u274c Piedmont produces Barolo and Barbaresco. \u274c Lombardy makes sparkling wine too, but not Prosecco."
+  },
+  {
+    "category": "Regions",
+    "question": "Which wine region is known for Cabernet Sauvignon grown on terra rossa soils?",
+    "choices": [
+      "Hunter Valley",
+      "Barossa Valley",
+      "Coonawarra",
+      "Yarra Valley"
+    ],
+    "answer": "Coonawarra",
+    "explanation": "\u2705 Coonawarra is famous for Cabernet Sauvignon grown on its distinctive red 'terra rossa' soils, which contribute structure and character. \u274c Barossa focuses on Shiraz. \u274c Hunter Valley is known for Semillon. \u274c Yarra Valley is more associated with Pinot Noir and Chardonnay."
+  },
+  {
+    "category": "Regions",
+    "question": "What is the most important white grape in the Marlborough region of New Zealand?",
+    "choices": [
+      "Chardonnay",
+      "Riesling",
+      "Sauvignon Blanc",
+      "Pinot Gris"
+    ],
+    "answer": "Sauvignon Blanc",
+    "explanation": "\u2705 Sauvignon Blanc dominates Marlborough, producing wines with piercing acidity and aromas of tropical fruit and herbs. \u274c Chardonnay and Pinot Gris are grown in smaller amounts. \u274c Riesling is also present but far less prominent."
+  },
+  {
+    "category": "Regions",
+    "question": "Which region in South Africa is best known for producing premium wines near Cape Town with a moderate climate?",
+    "choices": [
+      "Swartland",
+      "Paarl",
+      "Stellenbosch",
+      "Walker Bay"
+    ],
+    "answer": "Stellenbosch",
+    "explanation": "\u2705 Stellenbosch is South Africa\u2019s most prestigious wine region, known for premium red blends and Cabernet Sauvignon. \u274c Swartland is more rustic and innovative. \u274c Paarl is warmer and produces bulk wine. \u274c Walker Bay is cooler and known for Pinot Noir and Chardonnay."
+  },
+  {
+    "category": "Regions",
+    "question": "Which region is known for botrytized sweet wines made primarily from Furmint?",
+    "choices": [
+      "Tokaj",
+      "Rheingau",
+      "Sauternes",
+      "Pened\u00e8s"
+    ],
+    "answer": "Tokaj",
+    "explanation": "\u2705 Tokaj in Hungary produces world-famous sweet wines from Furmint affected by noble rot. \u274c Rheingau makes Riesling. \u274c Sauternes makes sweet wines too, but from Semillon and Sauvignon Blanc. \u274c Pened\u00e8s is known for Cava."
+  },
+  {
+    "category": "Regions",
+    "question": "Which French wine region is best known for ros\u00e9 production?",
+    "choices": [
+      "Alsace",
+      "Champagne",
+      "Provence",
+      "Beaujolais"
+    ],
+    "answer": "Provence",
+    "explanation": "\u2705 Provence is globally recognized for its pale, dry ros\u00e9 wines made from varieties like Grenache and Cinsault. \u274c Alsace focuses on aromatic whites. \u274c Champagne makes sparkling wines. \u274c Beaujolais produces red wines from Gamay."
+  },
+  {
+    "category": "Regions",
+    "question": "Which U.S. wine region is most closely associated with high-quality Cabernet Sauvignon?",
+    "choices": [
+      "Willamette Valley",
+      "Napa Valley",
+      "Finger Lakes",
+      "Columbia Valley"
+    ],
+    "answer": "Napa Valley",
+    "explanation": "\u2705 Napa Valley is the top U.S. region for high-end Cabernet Sauvignon, with a warm climate and many prestigious producers. \u274c Willamette Valley focuses on Pinot Noir. \u274c Finger Lakes is known for Riesling. \u274c Columbia Valley grows many grapes but is less premium-focused."
+  },
+  {
+    "category": "Regions",
+    "question": "Which Italian region is home to Chianti, a wine primarily made from Sangiovese?",
+    "choices": [
+      "Tuscany",
+      "Puglia",
+      "Umbria",
+      "Abruzzo"
+    ],
+    "answer": "Tuscany",
+    "explanation": "\u2705 Tuscany is the home of Chianti, where Sangiovese is the dominant grape in DOCG wines. \u274c Puglia grows Negroamaro and Primitivo. \u274c Umbria makes Grechetto and Sagrantino. \u274c Abruzzo is known for Montepulciano."
+  },
+  {
+    "category": "Regions",
+    "question": "Which German region is known for producing dry Rieslings with more body and less acidity than Mosel?",
+    "choices": [
+      "Nahe",
+      "Pfalz",
+      "Rheingau",
+      "Ahr"
+    ],
+    "answer": "Rheingau",
+    "explanation": "\u2705 Rheingau Rieslings are typically fuller-bodied and drier than those from Mosel, with ripe stone fruit and minerality. \u274c Nahe produces lighter wines. \u274c Pfalz is also known for fuller styles, but Rheingau has more prestige. \u274c Ahr focuses on Pinot Noir."
+  },
+  {
+    "category": "Regions",
+    "question": "Which Chilean region is particularly known for cool-climate Sauvignon Blanc and Pinot Noir?",
+    "choices": [
+      "Maipo Valley",
+      "Colchagua",
+      "Casablanca Valley",
+      "Central Valley"
+    ],
+    "answer": "Casablanca Valley",
+    "explanation": "\u2705 Casablanca Valley benefits from ocean influence, making it ideal for cool-climate varieties like Sauvignon Blanc and Pinot Noir. \u274c Maipo and Colchagua are warmer and focus on Cabernet. \u274c Central Valley is a broader region that includes both warm and cool zones."
+  },
+  {
+    "category": "Regions",
+    "question": "Which region in Argentina is best known for Malbec production?",
+    "choices": [
+      "Patagonia",
+      "Salta",
+      "Mendoza",
+      "La Rioja"
+    ],
+    "answer": "Mendoza",
+    "explanation": "\u2705 Mendoza is the heart of Argentina\u2019s wine industry and the premier region for Malbec, producing powerful, dark-fruited wines. \u274c Patagonia is cooler and makes lighter styles. \u274c Salta is high-altitude but small. \u274c La Rioja is lesser-known internationally."
+  },
+  {
+    "category": "Regions",
+    "question": "Which French region is famous for sparkling wine made using the traditional method?",
+    "choices": [
+      "Loire Valley",
+      "Alsace",
+      "Champagne",
+      "Languedoc"
+    ],
+    "answer": "Champagne",
+    "explanation": "\u2705 Champagne is the world\u2019s most famous region for traditional method sparkling wine, using Chardonnay, Pinot Noir, and Pinot Meunier. \u274c Loire and Alsace also make sparkling wine but are not as iconic. \u274c Languedoc makes sparkling too, but often with different methods."
+  },
+  {
+    "category": "Regions",
+    "question": "Which region in northern Spain is known for Albari\u00f1o-based white wines with high acidity and citrus flavors?",
+    "choices": [
+      "R\u00edas Baixas",
+      "Navarra",
+      "Toro",
+      "La Mancha"
+    ],
+    "answer": "R\u00edas Baixas",
+    "explanation": "\u2705 R\u00edas Baixas, located in Galicia, specializes in Albari\u00f1o, producing crisp white wines with high acidity and notes of lemon and green apple. \u274c Navarra produces more red and ros\u00e9 wines. \u274c Toro is known for powerful red wines from Tempranillo. \u274c La Mancha is a large-volume region known for many varieties."
+  },
+  {
+    "category": "Regions",
+    "question": "Which U.S. state is best known for Pinot Noir, particularly in the Willamette Valley?",
+    "choices": [
+      "California",
+      "New York",
+      "Oregon",
+      "Washington"
+    ],
+    "answer": "Oregon",
+    "explanation": "\u2705 Oregon, especially the Willamette Valley, is known for high-quality Pinot Noir with red fruit and earthy flavors. \u274c California is more famous for Cabernet Sauvignon and Zinfandel. \u274c New York\u2019s Finger Lakes focuses on Riesling. \u274c Washington is better known for Merlot and Syrah."
+  },
+  {
+    "category": "Regions",
+    "question": "Which South African wine region is known for cool-climate Chardonnay and Pinot Noir, influenced by ocean breezes?",
+    "choices": [
+      "Stellenbosch",
+      "Paarl",
+      "Swartland",
+      "Walker Bay"
+    ],
+    "answer": "Walker Bay",
+    "explanation": "\u2705 Walker Bay benefits from cold ocean currents, making it ideal for cool-climate varieties like Chardonnay and Pinot Noir. \u274c Stellenbosch and Paarl are warmer. \u274c Swartland is known for robust reds and innovative producers."
+  },
+  {
+    "category": "Regions",
+    "question": "Which French AOC is best known for producing dry Chenin Blanc wines with high acidity and apple or citrus notes?",
+    "choices": [
+      "Vouvray",
+      "Sancerre",
+      "Chablis",
+      "Muscadet"
+    ],
+    "answer": "Vouvray",
+    "explanation": "\u2705 Vouvray, in the Loire Valley, produces Chenin Blanc wines ranging from dry to sweet, often showing apple, citrus, and sometimes honeyed notes. \u274c Sancerre uses Sauvignon Blanc. \u274c Chablis is Chardonnay. \u274c Muscadet uses Melon de Bourgogne."
+  },
+  {
+    "category": "Regions",
+    "question": "Which French region is known for wines made from Melon de Bourgogne, often aged 'sur lie'?",
+    "choices": [
+      "Muscadet",
+      "Alsace",
+      "Bergerac",
+      "Beaujolais"
+    ],
+    "answer": "Muscadet",
+    "explanation": "\u2705 Muscadet produces dry, high-acid white wines from Melon de Bourgogne, often aged on lees ('sur lie') for texture. \u274c Alsace focuses on Riesling and Gew\u00fcrztraminer. \u274c Bergerac makes red and white wines but not from Melon de Bourgogne. \u274c Beaujolais produces red wines from Gamay."
+  },
+  {
+    "category": "Regions",
+    "question": "Which region in Italy is known for Soave, a white wine made primarily from Garganega?",
+    "choices": [
+      "Veneto",
+      "Tuscany",
+      "Umbria",
+      "Puglia"
+    ],
+    "answer": "Veneto",
+    "explanation": "\u2705 Soave is a white wine from the Veneto region, made mainly from the Garganega grape, often displaying notes of citrus, almond, and white flowers. \u274c Tuscany focuses on Sangiovese. \u274c Umbria is known for Grechetto and Sagrantino. \u274c Puglia focuses on Negroamaro and Primitivo."
+  },
+  {
+    "category": "Regions",
+    "question": "Which AVA in California is most famous for Zinfandel and warm-climate red wines?",
+    "choices": [
+      "Napa Valley",
+      "Sonoma",
+      "Lodi",
+      "Santa Barbara"
+    ],
+    "answer": "Lodi",
+    "explanation": "\u2705 Lodi is especially known for old vine Zinfandel and other warm-climate red varieties. \u274c Napa focuses more on Cabernet Sauvignon. \u274c Sonoma is known for Pinot Noir and Chardonnay. \u274c Santa Barbara is a cool-climate region better for Pinot Noir."
+  },
+  {
+    "category": "Regions",
+    "question": "Which Chilean region benefits from cool Pacific breezes and is known for premium Chardonnay?",
+    "choices": [
+      "Colchagua Valley",
+      "Maipo Valley",
+      "Casablanca Valley",
+      "Curic\u00f3 Valley"
+    ],
+    "answer": "Casablanca Valley",
+    "explanation": "\u2705 Casablanca Valley\u2019s proximity to the Pacific Ocean allows for a cooler climate, ideal for Chardonnay and Sauvignon Blanc. \u274c Colchagua and Maipo are warmer regions focused on red varieties. \u274c Curic\u00f3 is more inland and less coastal-influenced."
+  },
+  {
+    "category": "Regions",
+    "question": "Which wine region in Germany is furthest north and known for red wines made from Sp\u00e4tburgunder?",
+    "choices": [
+      "Rheinhessen",
+      "Ahr",
+      "Pfalz",
+      "Nahe"
+    ],
+    "answer": "Ahr",
+    "explanation": "\u2705 The Ahr Valley is one of Germany's northernmost wine regions and is renowned for its Sp\u00e4tburgunder (Pinot Noir), producing elegant, light reds. \u274c Rheinhessen and Pfalz are known for whites. \u274c Nahe is a balanced region but not as red-focused as Ahr."
+  },
+  {
+    "category": "Regions",
+    "question": "Which French region is known for Sauvignon Blanc and Semillon blends, both dry and sweet?",
+    "choices": [
+      "Rh\u00f4ne Valley",
+      "Loire Valley",
+      "Bordeaux",
+      "Alsace"
+    ],
+    "answer": "Bordeaux",
+    "explanation": "\u2705 Bordeaux produces dry white blends (e.g., Pessac-L\u00e9ognan) and sweet wines (e.g., Sauternes) from Sauvignon Blanc and Semillon. \u274c Rh\u00f4ne is known for Marsanne and Roussanne. \u274c Loire makes single-varietal Sauvignon Blanc. \u274c Alsace typically avoids blends."
+  },
+  {
+    "category": "Regions",
+    "question": "Which Spanish region is known for powerful red wines made from Tinta de Toro, a local clone of Tempranillo?",
+    "choices": [
+      "Ribera del Duero",
+      "Toro",
+      "La Mancha",
+      "Jumilla"
+    ],
+    "answer": "Toro",
+    "explanation": "\u2705 Toro produces bold, full-bodied red wines from a local clone of Tempranillo called Tinta de Toro. \u274c Ribera del Duero also uses Tempranillo but is a different region. \u274c La Mancha is a high-volume region. \u274c Jumilla is known for Monastrell."
+  },
+  {
+    "category": "Regions",
+    "question": "Which U.S. region is known for producing high-acid Riesling in a cool continental climate?",
+    "choices": [
+      "Sonoma",
+      "Willamette Valley",
+      "Columbia Valley",
+      "Finger Lakes"
+    ],
+    "answer": "Finger Lakes",
+    "explanation": "\u2705 Finger Lakes in New York produces top-quality Rieslings with high acidity and precision due to its cool climate. \u274c Sonoma and Willamette focus on Chardonnay and Pinot Noir. \u274c Columbia Valley produces Riesling but in a warmer, drier climate."
+  },
+  {
+    "category": "Regions",
+    "question": "Which region in southern France is known for producing Grenache-based blends in a Mediterranean climate?",
+    "choices": [
+      "Ch\u00e2teauneuf-du-Pape",
+      "Bordeaux",
+      "Alsace",
+      "Chablis"
+    ],
+    "answer": "Ch\u00e2teauneuf-du-Pape",
+    "explanation": "\u2705 Ch\u00e2teauneuf-du-Pape in the Southern Rh\u00f4ne produces rich, full-bodied reds, primarily from Grenache, along with Syrah and Mourv\u00e8dre. \u274c Bordeaux is not Grenache territory. \u274c Alsace focuses on white wines. \u274c Chablis is known for Chardonnay."
+  },
+  {
+    "category": "Regions",
+    "question": "Which French region is known for producing wine from Gamay using carbonic maceration?",
+    "choices": [
+      "Beaujolais",
+      "Bordeaux",
+      "Burgundy",
+      "Savoie"
+    ],
+    "answer": "Beaujolais",
+    "explanation": "\u2705 Beaujolais uses the Gamay grape and is famous for its fruity, low-tannin wines made using carbonic maceration. \u274c Bordeaux and Burgundy do not use this technique. \u274c Savoie is more focused on alpine whites."
+  },
+  {
+    "category": "Regions",
+    "question": "Which Italian region produces red wines under the Valpolicella and Amarone names?",
+    "choices": [
+      "Piedmont",
+      "Lombardy",
+      "Veneto",
+      "Trentino-Alto Adige"
+    ],
+    "answer": "Veneto",
+    "explanation": "\u2705 Veneto is home to Valpolicella (light reds) and Amarone (powerful, dried-grape reds), both made primarily from Corvina. \u274c Piedmont focuses on Nebbiolo. \u274c Lombardy produces sparkling wine. \u274c Trentino-Alto Adige focuses on white wines and fresh reds."
+  }
+]

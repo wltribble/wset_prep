@@ -1,0 +1,278 @@
+[
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is most commonly associated with the aromas of blackcurrant, green bell pepper, and cedar when grown in a moderate climate?",
+    "choices": [
+      "Merlot",
+      "Cabernet Sauvignon",
+      "Syrah",
+      "Pinot Noir"
+    ],
+    "answer": "Cabernet Sauvignon",
+    "explanation": "\u2705 Cabernet Sauvignon typically shows aromas of blackcurrant, green bell pepper (especially when not fully ripe), and cedar (from oak aging). \u274c Merlot is softer, with plum and red fruit notes. \u274c Syrah tends to show black pepper, dark fruits, and sometimes smoky notes. \u274c Pinot Noir is lighter-bodied with red fruit and earthy notes, not blackcurrant or bell pepper."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which white grape is known for its high acidity, floral aromas, and the ability to produce both dry and sweet wines?",
+    "choices": [
+      "Chardonnay",
+      "Viognier",
+      "Riesling",
+      "Pinot Grigio"
+    ],
+    "answer": "Riesling",
+    "explanation": "\u2705 Riesling is known for its high acidity and aromatic profile, including floral and citrus notes. It can be made in dry, off-dry, or sweet styles. \u274c Chardonnay is typically less aromatic and not floral. \u274c Viognier is floral but lower in acidity and usually dry. \u274c Pinot Grigio has high acidity but is not particularly aromatic."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is the dominant red variety in Rioja and is known for red fruit, spice, and leather aromas with age?",
+    "choices": [
+      "Garnacha",
+      "Tempranillo",
+      "Monastrell",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Tempranillo",
+    "explanation": "\u2705 Tempranillo is the primary grape in Rioja, known for red fruit flavors in youth and spice/leather notes as it ages. \u274c Garnacha is often blended in Rioja but is more associated with high alcohol and red fruit. \u274c Monastrell is known for dark fruit and is more common in southeastern Spain. \u274c Cabernet Sauvignon is rarely used in Rioja."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is typically used in the production of red Burgundy wines?",
+    "choices": [
+      "Merlot",
+      "Pinot Noir",
+      "Syrah",
+      "Cabernet Franc"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "\u2705 Pinot Noir is the classic grape of red Burgundy, producing elegant wines with red fruit, floral, and earthy aromas. \u274c Merlot is used in Bordeaux, not Burgundy. \u274c Syrah is more typical of the Rh\u00f4ne Valley. \u274c Cabernet Franc is a Loire and Bordeaux variety, not Burgundy\u2019s focus."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which white grape is widely grown in Chablis and produces wines with high acidity and green apple or citrus notes?",
+    "choices": [
+      "Chardonnay",
+      "Sauvignon Blanc",
+      "Chenin Blanc",
+      "Riesling"
+    ],
+    "answer": "Chardonnay",
+    "explanation": "\u2705 Chablis is made from 100% Chardonnay, typically unoaked with high acidity and flavors of green apple, lemon, and wet stone. \u274c Sauvignon Blanc is grown in Loire and New Zealand but not used in Chablis. \u274c Chenin Blanc is from the Loire Valley. \u274c Riesling is grown in Germany and Alsace, not Chablis."
+  },
+  {
+    "category": "Varietals",
+    "question": "What flavor profile is most associated with Gew\u00fcrztraminer?",
+    "choices": [
+      "Green apple and lemon",
+      "Peach and floral",
+      "Lychee and rose",
+      "Butter and toast"
+    ],
+    "answer": "Lychee and rose",
+    "explanation": "\u2705 Gew\u00fcrztraminer is highly aromatic and known for exotic fruit (especially lychee) and rose petal aromas. \u274c Green apple and lemon suggest cool-climate Chardonnay or Riesling. \u274c Peach and floral fits Viognier more. \u274c Butter and toast are associated with oaked Chardonnay."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape is the main variety in Beaujolais wines?",
+    "choices": [
+      "Pinot Noir",
+      "Gamay",
+      "Syrah",
+      "Grenache"
+    ],
+    "answer": "Gamay",
+    "explanation": "\u2705 Gamay is the grape used in Beaujolais, producing light-bodied red wines with red fruit flavors and low tannins. \u274c Pinot Noir is used in Burgundy but not Beaujolais. \u274c Syrah is Rh\u00f4ne-based. \u274c Grenache is found in Southern Rh\u00f4ne and Spain."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which black grape variety is known for high tannins, dark fruit flavors, and aging potential, and is dominant in Barolo?",
+    "choices": [
+      "Nebbiolo",
+      "Sangiovese",
+      "Montepulciano",
+      "Zinfandel"
+    ],
+    "answer": "Nebbiolo",
+    "explanation": "\u2705 Nebbiolo is the grape of Barolo and Barbaresco, known for high tannins, acidity, and flavors of tar and roses. \u274c Sangiovese is used in Chianti. \u274c Montepulciano is found in Abruzzo. \u274c Zinfandel is a Californian grape, not Italian."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is used to make Vouvray wines in the Loire Valley?",
+    "choices": [
+      "Chardonnay",
+      "Chenin Blanc",
+      "Sauvignon Blanc",
+      "Semillon"
+    ],
+    "answer": "Chenin Blanc",
+    "explanation": "\u2705 Chenin Blanc is the grape of Vouvray, producing wines from dry to sweet and sparkling. \u274c Chardonnay is not widely planted in the Loire. \u274c Sauvignon Blanc is used in Sancerre and Pouilly-Fum\u00e9. \u274c Semillon is used in Bordeaux, not Vouvray."
+  },
+  {
+    "category": "Varietals",
+    "question": "What grape is known for its use in Sancerre and Pouilly-Fum\u00e9?",
+    "choices": [
+      "Chenin Blanc",
+      "Sauvignon Blanc",
+      "Chardonnay",
+      "Viognier"
+    ],
+    "answer": "Sauvignon Blanc",
+    "explanation": "\u2705 Sauvignon Blanc is the grape of Sancerre and Pouilly-Fum\u00e9, producing high-acid wines with citrus and green aromas. \u274c Chenin Blanc is used in Vouvray. \u274c Chardonnay is not used in these appellations. \u274c Viognier is found in the Rh\u00f4ne, not the Loire."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which variety is commonly grown in Alsace and known for its dry, high-acid, aromatic wines?",
+    "choices": [
+      "Chardonnay",
+      "Riesling",
+      "Semillon",
+      "Albari\u00f1o"
+    ],
+    "answer": "Riesling",
+    "explanation": "\u2705 Alsatian Riesling is typically dry with high acidity, citrus, and floral aromas. \u274c Chardonnay is rare in Alsace. \u274c Semillon is more often used in sweet wines. \u274c Albari\u00f1o is from Spain, not Alsace."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape is known for its thick skins, high tannins, and black fruit flavors in Mendoza, Argentina?",
+    "choices": [
+      "Malbec",
+      "Cabernet Sauvignon",
+      "Syrah",
+      "Tempranillo"
+    ],
+    "answer": "Malbec",
+    "explanation": "\u2705 Malbec is Argentina\u2019s flagship grape, known for intense black fruit, high tannins, and deep color. \u274c Cabernet Sauvignon is also grown there but less iconic. \u274c Syrah is more Rh\u00f4ne-based. \u274c Tempranillo is a Spanish grape."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape is typically used in Prosecco production?",
+    "choices": [
+      "Glera",
+      "Chardonnay",
+      "Trebbiano",
+      "Pinot Grigio"
+    ],
+    "answer": "Glera",
+    "explanation": "\u2705 Glera is the grape used to make Prosecco, a light and fruity sparkling wine. \u274c Chardonnay is used in Champagne. \u274c Trebbiano is used in still white wines in Italy. \u274c Pinot Grigio is a still wine grape."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is most commonly used to make Brunello di Montalcino?",
+    "choices": [
+      "Sangiovese",
+      "Nebbiolo",
+      "Barbera",
+      "Montepulciano"
+    ],
+    "answer": "Sangiovese",
+    "explanation": "\u2705 Brunello di Montalcino is made from 100% Sangiovese, known locally as 'Brunello'. It produces wines with high acidity, firm tannins, and flavors of cherry, plum, and herbs. \u274c Nebbiolo is used in Barolo and Barbaresco. \u274c Barbera is a lighter, fruitier grape from Piedmont. \u274c Montepulciano is grown in Abruzzo, not Montalcino."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape is known for red fruit flavors, low tannins, and is often used in wines from Valpolicella?",
+    "choices": [
+      "Corvina",
+      "Dolcetto",
+      "Nero d\u2019Avola",
+      "Primitivo"
+    ],
+    "answer": "Corvina",
+    "explanation": "\u2705 Corvina is the dominant grape in Valpolicella wines, known for light body, sour cherry flavors, and low tannins. \u274c Dolcetto is from Piedmont and has more tannin. \u274c Nero d\u2019Avola is from Sicily and is richer and darker. \u274c Primitivo (aka Zinfandel) is full-bodied and higher in alcohol."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is most associated with the production of high-quality dry and sweet wines in Germany?",
+    "choices": [
+      "Riesling",
+      "M\u00fcller-Thurgau",
+      "Silvaner",
+      "Pinot Blanc"
+    ],
+    "answer": "Riesling",
+    "explanation": "\u2705 Riesling is the most important quality grape in Germany, used for dry, off-dry, and sweet wines with high acidity and aging potential. \u274c M\u00fcller-Thurgau is more neutral and less age-worthy. \u274c Silvaner is used but less prestigious. \u274c Pinot Blanc is grown more in Alsace and Germany but plays a smaller role."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape is used in the red wines of the Northern Rh\u00f4ne, particularly in Hermitage and C\u00f4te-R\u00f4tie?",
+    "choices": [
+      "Syrah",
+      "Grenache",
+      "Carignan",
+      "Cabernet Franc"
+    ],
+    "answer": "Syrah",
+    "explanation": "\u2705 Syrah is the only red grape permitted in Northern Rh\u00f4ne AOCs like Hermitage and C\u00f4te-R\u00f4tie, known for black fruit, pepper, and floral notes. \u274c Grenache is used in Southern Rh\u00f4ne. \u274c Carignan is common in Languedoc. \u274c Cabernet Franc is a Loire and Bordeaux grape."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which white grape is known for tropical fruit flavors and often undergoes malolactic fermentation and oak aging in California?",
+    "choices": [
+      "Chardonnay",
+      "Viognier",
+      "Sauvignon Blanc",
+      "Pinot Grigio"
+    ],
+    "answer": "Chardonnay",
+    "explanation": "\u2705 California Chardonnay often has tropical fruit flavors, is aged in oak, and undergoes malolactic fermentation to add richness. \u274c Viognier is aromatic but rarely oaked. \u274c Sauvignon Blanc is more herbaceous and usually unoaked. \u274c Pinot Grigio is made in a neutral, light style."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is used in the wines of the Barossa Valley and is known for bold black fruit and pepper flavors?",
+    "choices": [
+      "Syrah",
+      "Shiraz",
+      "Grenache",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Shiraz",
+    "explanation": "\u2705 Shiraz (the Australian name for Syrah) is the iconic grape of the Barossa Valley, known for rich black fruit, pepper, and full body. \u274c Syrah is correct in name but 'Shiraz' is the local usage. \u274c Grenache is blended, not dominant. \u274c Cabernet Sauvignon is also grown but less defining."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is most associated with Marlborough, New Zealand?",
+    "choices": [
+      "Sauvignon Blanc",
+      "Chardonnay",
+      "Riesling",
+      "Pinot Gris"
+    ],
+    "answer": "Sauvignon Blanc",
+    "explanation": "\u2705 Marlborough is world-renowned for intensely aromatic Sauvignon Blanc with notes of passionfruit, gooseberry, and grass. \u274c Chardonnay and Riesling are also grown but less dominant. \u274c Pinot Gris is more common in Alsace or Oregon."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which black grape variety is typically light-bodied, pale in color, and often shows red cherry and earthy notes?",
+    "choices": [
+      "Pinot Noir",
+      "Syrah",
+      "Zinfandel",
+      "Cabernet Sauvignon"
+    ],
+    "answer": "Pinot Noir",
+    "explanation": "\u2705 Pinot Noir produces light-colored, light-bodied red wines with high acidity and red fruit (especially cherry), often with earthy or mushroom notes. \u274c Syrah and Cabernet are fuller-bodied. \u274c Zinfandel is deeply colored and often high in alcohol."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape is most commonly associated with sweet wines from Tokaj in Hungary?",
+    "choices": [
+      "Furmint",
+      "Riesling",
+      "Muscat",
+      "Gew\u00fcrztraminer"
+    ],
+    "answer": "Furmint",
+    "explanation": "\u2705 Furmint is the main grape used in Tokaji wines, prized for its high acidity and ability to develop noble rot. \u274c Riesling, Muscat, and Gew\u00fcrztraminer are aromatic varieties used in other sweet wines but not in Tokaj."
+  },
+  {
+    "category": "Varietals",
+    "question": "Which grape variety is often used in Chile to produce herbal, blackcurrant-flavored wines?",
+    "choices": [
+      "Carmen\u00e8re",
+      "Merlot",
+      "Cabernet Franc",
+      "Tempranillo"
+    ],
+    "answer": "Carmen\u00e8re",
+    "explanation": "\u2705 Carmen\u00e8re is a specialty of Chile, producing wines with soft tannins, black fruit, and green pepper or herbal notes. \u274c Merlot is more fruit-forward. \u274c Cabernet Franc shows herbal notes but is less common in Chile. \u274c Tempranillo is native to Spain."
+  }
+]

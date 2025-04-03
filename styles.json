@@ -1,0 +1,122 @@
+[
+  {
+    "category": "Styles of Wine",
+    "question": "Which term best describes a wine that has high alcohol, full body, and ripe black fruit flavors?",
+    "choices": [
+      "Light-bodied",
+      "Medium-bodied",
+      "Full-bodied",
+      "Off-dry"
+    ],
+    "answer": "Full-bodied",
+    "explanation": "\u2705 A full-bodied wine typically has high alcohol, a viscous mouthfeel, and concentrated fruit flavors\u2014like a warm-climate Shiraz or Zinfandel. \u274c Light-bodied wines are delicate with lower alcohol. \u274c Medium-bodied wines have moderate structure. \u274c Off-dry refers to sweetness, not body."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "Which wine is most likely to be described as dry, light-bodied, and high in acidity?",
+    "choices": [
+      "Sancerre",
+      "Amarone della Valpolicella",
+      "Barossa Shiraz",
+      "Port"
+    ],
+    "answer": "Sancerre",
+    "explanation": "\u2705 Sancerre, made from Sauvignon Blanc, is typically dry, light-bodied, and has high acidity with citrus and grassy notes. \u274c Amarone is full-bodied and high in alcohol. \u274c Barossa Shiraz is rich and full-bodied. \u274c Port is sweet and fortified."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "Which factor is most likely to result in a wine with lower acidity?",
+    "choices": [
+      "Cool climate",
+      "High altitude",
+      "Hot climate",
+      "Early harvesting"
+    ],
+    "answer": "Hot climate",
+    "explanation": "\u2705 In hot climates, grapes ripen faster and often lose acidity, resulting in softer, rounder wines. \u274c Cool climates and high altitudes preserve acidity. \u274c Early harvesting retains acidity, not reduces it."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "Which wine is typically fortified during fermentation to retain sweetness?",
+    "choices": [
+      "Sauternes",
+      "Port",
+      "Barolo",
+      "Chianti"
+    ],
+    "answer": "Port",
+    "explanation": "\u2705 Port is fortified with grape spirit during fermentation, killing the yeast and leaving residual sugar for sweetness. \u274c Sauternes is sweet but not fortified. \u274c Barolo and Chianti are dry red wines."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "Which of the following styles best describes a typical Muscadet S\u00e8vre et Maine sur lie?",
+    "choices": [
+      "Sweet and full-bodied",
+      "Dry and light-bodied with yeasty notes",
+      "Off-dry and low acidity",
+      "Dry and tannic"
+    ],
+    "answer": "Dry and light-bodied with yeasty notes",
+    "explanation": "\u2705 Muscadet sur lie wines are light, dry, and aged on lees, which adds subtle yeasty, bready flavors. \u274c They are not sweet or full-bodied. \u274c Off-dry is incorrect; they are dry. \u274c Tannins are not a feature of white wines like Muscadet."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "Which style of wine is typically pale in color, light in body, and served well-chilled?",
+    "choices": [
+      "Ros\u00e9",
+      "Full-bodied red",
+      "Dry white",
+      "Sparkling red"
+    ],
+    "answer": "Dry white",
+    "explanation": "\u2705 Dry white wines such as Pinot Grigio or Sauvignon Blanc are typically pale, light-bodied, and served well-chilled to preserve freshness. \u274c Ros\u00e9 can be light but has more color and may not be as acidic. \u274c Full-bodied reds are darker and heavier. \u274c Sparkling red is uncommon and fuller-bodied."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "Which of these wines is most likely to have high tannin and full body?",
+    "choices": [
+      "Chablis",
+      "Barolo",
+      "Pinot Noir",
+      "Sancerre"
+    ],
+    "answer": "Barolo",
+    "explanation": "\u2705 Barolo is made from Nebbiolo and is known for high tannins, full body, and long aging potential. \u274c Chablis and Sancerre are whites. \u274c Pinot Noir is usually lower in tannins and lighter in body."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "Which term best describes a wine with medium alcohol, medium body, and a balance of fruit and acidity?",
+    "choices": [
+      "Balanced",
+      "Fortified",
+      "Oxidized",
+      "Full-bodied"
+    ],
+    "answer": "Balanced",
+    "explanation": "\u2705 A balanced wine shows harmony between alcohol, body, acidity, and flavor. \u274c Fortified refers to alcohol addition. \u274c Oxidized wines lose freshness. \u274c Full-bodied implies higher alcohol and viscosity."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "Which wine is likely to have residual sugar but also high acidity to maintain balance?",
+    "choices": [
+      "Riesling Kabinett",
+      "Chianti Classico",
+      "Barossa Shiraz",
+      "Napa Cabernet"
+    ],
+    "answer": "Riesling Kabinett",
+    "explanation": "\u2705 German Riesling Kabinett wines often contain a small amount of residual sugar but are balanced by naturally high acidity. \u274c Chianti, Shiraz, and Cabernet are dry red wines and would not typically show residual sugar."
+  },
+  {
+    "category": "Styles of Wine",
+    "question": "Which of the following wines would be considered sweet and fortified?",
+    "choices": [
+      "Champagne",
+      "Port",
+      "Rioja",
+      "Sancerre"
+    ],
+    "answer": "Port",
+    "explanation": "\u2705 Port is a sweet, fortified wine from Portugal with added spirit during fermentation. \u274c Champagne is sparkling and usually dry or off-dry. \u274c Rioja is a dry red. \u274c Sancerre is a dry white."
+  }
+]

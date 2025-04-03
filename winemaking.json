@@ -1,0 +1,182 @@
+[
+  {
+    "category": "Wine Production",
+    "question": "What is the purpose of malolactic conversion in white wine production?",
+    "choices": [
+      "To increase sugar content",
+      "To soften acidity and add buttery flavors",
+      "To clarify the wine",
+      "To halt fermentation"
+    ],
+    "answer": "To soften acidity and add buttery flavors",
+    "explanation": "\u2705 Malolactic conversion changes malic acid into lactic acid, softening acidity and often adding buttery or creamy flavors (especially in Chardonnay). \u274c It does not increase sugar. \u274c Clarification is done separately (e.g., fining). \u274c It doesn't halt fermentation; that's a different process."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What happens to red wine if fermentation occurs without the skins?",
+    "choices": [
+      "It gains deeper color",
+      "It will lack tannins and color",
+      "It will become sparkling",
+      "It increases alcohol content"
+    ],
+    "answer": "It will lack tannins and color",
+    "explanation": "\u2705 Red wine gets its color and most tannin from skin contact during fermentation. Without it, the wine would resemble a ros\u00e9 or be very pale and soft. \u274c Deeper color comes from more skin contact, not less. \u274c Sparkling requires a second fermentation. \u274c Alcohol content is determined by sugar, not skin contact."
+  },
+  {
+    "category": "Wine Production",
+    "question": "Why are white wines usually fermented at cooler temperatures than red wines?",
+    "choices": [
+      "To extract tannin from the skins",
+      "To preserve fresh fruit and floral aromas",
+      "To increase alcohol levels",
+      "To develop deep color"
+    ],
+    "answer": "To preserve fresh fruit and floral aromas",
+    "explanation": "\u2705 Cooler fermentation temperatures help preserve the delicate fruity and floral aromas typical of white wines. \u274c Tannin extraction is important for reds. \u274c Alcohol levels are determined by sugar, not temperature. \u274c Deep color isn't relevant to whites."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the main goal of using oak barrels in winemaking?",
+    "choices": [
+      "To increase acidity",
+      "To reduce tannin",
+      "To add flavor and allow slow oxygen exposure",
+      "To sweeten the wine"
+    ],
+    "answer": "To add flavor and allow slow oxygen exposure",
+    "explanation": "\u2705 Oak adds flavors such as vanilla, spice, and toast, while allowing micro-oxygenation, which softens tannins and adds complexity. \u274c Oak does not increase acidity. \u274c It doesn't directly reduce tannins. \u274c It does not add sweetness."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the purpose of lees aging in white wine production?",
+    "choices": [
+      "To reduce acidity",
+      "To add yeasty, creamy flavors and enhance texture",
+      "To prevent spoilage",
+      "To add sugar"
+    ],
+    "answer": "To add yeasty, creamy flavors and enhance texture",
+    "explanation": "\u2705 Aging on lees (dead yeast cells) adds creamy texture and flavors like bread dough or biscuit. Common in Muscadet and Champagne. \u274c It doesn't directly reduce acidity. \u274c It may help with stability but is not spoilage prevention. \u274c It doesn\u2019t involve sugar addition."
+  },
+  {
+    "category": "Wine Production",
+    "question": "Which method is most commonly used to produce high-quality sparkling wines like Champagne?",
+    "choices": [
+      "Carbonation",
+      "Tank method",
+      "Traditional method",
+      "Flash release"
+    ],
+    "answer": "Traditional method",
+    "explanation": "\u2705 The traditional method involves a second fermentation in the bottle and is used in Champagne and many quality sparkling wines. \u274c Carbonation is used for cheap sparkling wines. \u274c Tank method is used for Prosecco and less complex styles. \u274c Flash release is unrelated to sparkling wine."
+  },
+  {
+    "category": "Wine Production",
+    "question": "Why is sulfur dioxide used in winemaking?",
+    "choices": [
+      "To increase sugar levels",
+      "To prevent oxidation and microbial spoilage",
+      "To add alcohol",
+      "To extract color from skins"
+    ],
+    "answer": "To prevent oxidation and microbial spoilage",
+    "explanation": "\u2705 Sulfur dioxide (SO\u2082) is an antioxidant and antimicrobial that protects wine during and after fermentation. \u274c It doesn't increase sugar or alcohol. \u274c It doesn\u2019t help with color extraction."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What technique is used in red winemaking to keep grape skins in contact with juice during fermentation?",
+    "choices": [
+      "Racking",
+      "Punching down",
+      "Filtering",
+      "Fining"
+    ],
+    "answer": "Punching down",
+    "explanation": "\u2705 Punching down is a cap management technique that submerges skins to extract color, tannins, and flavor. \u274c Racking is for clarifying wine. \u274c Filtering removes particles. \u274c Fining removes unwanted compounds."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is the result of stopping fermentation before all sugar is converted to alcohol?",
+    "choices": [
+      "A higher alcohol wine",
+      "A dry wine",
+      "A sparkling wine",
+      "A wine with residual sugar"
+    ],
+    "answer": "A wine with residual sugar",
+    "explanation": "\u2705 Stopping fermentation early leaves some sugars unfermented, resulting in sweetness. \u274c Alcohol will be lower, not higher. \u274c Dry wines have little to no residual sugar. \u274c Sparkling wine may use other methods."
+  },
+  {
+    "category": "Wine Production",
+    "question": "Why are grapes often harvested at night or early morning?",
+    "choices": [
+      "To improve fermentation speed",
+      "To reduce labor costs",
+      "To preserve acidity and avoid oxidation",
+      "To reduce sugar levels"
+    ],
+    "answer": "To preserve acidity and avoid oxidation",
+    "explanation": "\u2705 Cooler temperatures help preserve acidity and reduce oxidation risk during transport. \u274c It doesn\u2019t speed fermentation. \u274c Labor costs are not the primary reason. \u274c Sugar levels are set by ripeness."
+  },
+  {
+    "category": "Wine Production",
+    "question": "How are sweet wines typically made in Sauternes?",
+    "choices": [
+      "By stopping fermentation early",
+      "By adding sugar to dry wine",
+      "By concentrating sugars through noble rot",
+      "By freezing grapes before pressing"
+    ],
+    "answer": "By concentrating sugars through noble rot",
+    "explanation": "\u2705 Sauternes wines are made from Semillon and Sauvignon Blanc affected by Botrytis cinerea (noble rot), which dehydrates the grapes and concentrates sugars. \u274c The wines ferment to balance. \u274c Sugar is not added. \u274c Freezing is used in Icewine, not Sauternes."
+  },
+  {
+    "category": "Wine Production",
+    "question": "Why are red wines typically fermented at higher temperatures than white wines?",
+    "choices": [
+      "To reduce acidity",
+      "To promote deeper color and tannin extraction",
+      "To retain delicate aromas",
+      "To boost sweetness"
+    ],
+    "answer": "To promote deeper color and tannin extraction",
+    "explanation": "\u2705 Red wines benefit from higher temperatures (25\u201330\u00b0C) to extract color, tannins, and body from skins. \u274c Acidity is not directly reduced. \u274c Delicate aromas are more important in whites. \u274c Sweetness is controlled by fermentation duration."
+  },
+  {
+    "category": "Wine Production",
+    "question": "Which method of sweet wine production involves removing water by freezing grapes on the vine?",
+    "choices": [
+      "Late harvesting",
+      "Fortification",
+      "Cryoextraction",
+      "Noble rot"
+    ],
+    "answer": "Cryoextraction",
+    "explanation": "\u2705 Cryoextraction, used in Icewine production (e.g., Canada, Germany), involves freezing grapes to concentrate sugar before pressing. \u274c Late harvest involves overripe grapes. \u274c Fortification adds alcohol. \u274c Noble rot involves fungus, not freezing."
+  },
+  {
+    "category": "Wine Production",
+    "question": "Why is carbonic maceration used in Beaujolais winemaking?",
+    "choices": [
+      "To produce sparkling wine",
+      "To retain color in white wine",
+      "To create fruity, low-tannin red wines",
+      "To increase alcohol content"
+    ],
+    "answer": "To create fruity, low-tannin red wines",
+    "explanation": "\u2705 Carbonic maceration uses whole berries in CO\u2082 to promote intracellular fermentation, producing wines with bright fruit and soft tannins. \u274c It doesn\u2019t create sparkling wines. \u274c It\u2019s used for red wines, not whites. \u274c Alcohol level is not increased."
+  },
+  {
+    "category": "Wine Production",
+    "question": "What is fining in winemaking?",
+    "choices": [
+      "Filtering wine through membranes",
+      "Adding substances to remove unwanted particles",
+      "Mixing juice with skins",
+      "Aging wine in bottles before release"
+    ],
+    "answer": "Adding substances to remove unwanted particles",
+    "explanation": "\u2705 Fining uses agents (like egg white or bentonite) to bind with and remove unwanted particles, improving clarity and stability. \u274c Filtering is a different process. \u274c Skin contact is unrelated. \u274c Bottle aging occurs after fining."
+  }
+]
